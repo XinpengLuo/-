@@ -7870,3 +7870,32 @@ public double champagneTower(int poured, int query_row, int query_glass) {
     }
 ```
 
+### 4月17日
+
+> 复习快速排序
+
+```java
+public void quickSort(int[] arr, int left, int right){
+  if(left >= right)
+    return;
+  int base = arr[left];
+  int i = left;
+  int j = right;
+  while(left < right){
+    while(left < right && arr[right] >= base)
+      right--;
+    while(left <right && arr[left] <= base)
+      left++;
+    swap(arr,left,right);
+  }
+  swap(arr,i,left);
+  quickSort(arr,i,left - 1);
+  quickSort(arr,left + 1,j);
+}
+public void swap(int[] arr, int i, int j){
+  int temp = arr[i];
+  arr[i] = arr[j];
+  arr[j] = temp;
+}
+```
+
