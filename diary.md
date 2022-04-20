@@ -2448,14 +2448,11 @@ class Solution {
 
 初始 i = - 1 j = arr.length 
 
-cur 扫描整个数组 遇到小于target的 和 小于区间的最后个数字的后面一个数字交换 并且扩大小于区间 i++ 然后 cur ++ 
+cur 扫描整个数组 
 
-这里为什么cur也不用考虑的直接加一呢？
-因为小于区间后面的数字只可能是cur现在指向的数字 或者是 等于target的数字 如果是前一种情况自然加一 对于后者 只是单独的交换几个相同的数字而已不影响
-
-对于 大于target的数字 将大于区间的第一个数字的前一个数组交换过来 并且大于区间向前走 
-
-此时cur 不加一！
+- 遇到小于target的 和 小于区间的最后个数字的后面一个数字交换 并且扩大小于区间 i++ 然后 cur ++ （等于区间直接跟到小于区间后面 所以可以cur++）
+- 遇到等于target的 cur++ 
+- 对于 大于target的数字 将大于区间的第一个数字的前一个数组交换过来 并且大于区间向前走 此时cur 不加一！
 
 当cur < right 时 一直循环
 
@@ -7874,6 +7871,8 @@ public double champagneTower(int poured, int query_row, int query_glass) {
 
 > 复习快速排序
 
+经典快排 一次遍历过程中 只搞定一个数字
+
 ```java
 public void quickSort(int[] arr, int left, int right){
   if(left >= right)
@@ -7897,5 +7896,34 @@ public void swap(int[] arr, int i, int j){
   arr[i] = arr[j];
   arr[j] = temp;
 }
+```
+### 4月20日
+
+> #### [388. 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/)
+
+这道题还蛮有意思的 首先可以通过\n分隔 因为一个\n代表一次换行
+
+然后通过判断分割后的每个字符串所拥有的\t数量来判断 属于第几层
+
+如果当然字符串含有. 那么就代表走到头了 记录对应的长度
+
+长度为 `当前字符串减去 制表符后 + 上一层目录的长度 `
+
+```java
+ public int lengthLongestPath(String input) {
+ HashMap<Integer, Integer> preLevel = new HashMap<Integer,Integer>(); //记录目录层级 --> 长度
+       int res = 0;
+        for (String s : input.split("\n")) {
+            int level = s.lastIndexOf("\t") + 1;
+            int length = s.length() - level;
+            if(s.contains(".")){
+                res = Math.max(res,preLevel.getOrDefault(level - 1,0) + length);
+            }
+            else{
+                preLevel.put(level, preLevel.getOrDefault(level - 1,0) + length + 1); //加一的目的 加上 /
+            }
+        }
+        return res;
+    }
 ```
 
