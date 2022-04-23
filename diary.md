@@ -3702,6 +3702,8 @@ public int findUnsortedSubArray(int[] nums){
 
 比如这样一串数字 1234 **5 3 2 1** 8 9 10 我们可以说 5 3 2 1 是无序区间 也可以将 范围分别向前向后扩 
 
+>4.22补充 一个数组 如果一直往前看他都是递增的 那么你从前向后遍历时一定是一直在更新max 最后一次不更新max的位置就是无序的右端点
+
 一个真正的有序区间是**，最后一个没有让最大值更新的位置** 从左到右遍历 更新最大值 如果到了当前位置需要更新最大值 代表是有序的 **如果不用 代表 肯定逆序**
 
 上面是找到右边界
@@ -7925,5 +7927,71 @@ public void swap(int[] arr, int i, int j){
         }
         return res;
     }
+```
+
+### 4月23日
+
+> #### [1574. 删除最短的子数组使剩余数组有序](https://leetcode-cn.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
+
+阿里面试原题 其实题目平时练习的话真的不算很难 但是上场还是心态不好 第一次处理输入 输出。。。。。 太菜了！
+
+- 首先明确一个道理 我们只能 **删一次** 所以不存在这里删一次那里删一次的情况
+- 数组中删除的区间必定包含 **中间无序的区间**  
+- 中间无序的区间为: 左边有序的区间的end 到右边有序的区间的start
+- 所以双指针一个从前往后 一个从后往前 分别找到不满足递增和递减的情况
+- 中间删除后 那么剩下 **左边有序的部分**和 **右边有序的部分** 再分三种情况讨论
+  - 删除左边 留右边
+  - 删除右边 留左边
+  - 左边留一部分 右边留一部分
+
+```java
+class Solution {
+    public int findLengthOfShortestSubarray(int[] arr) {
+        int leftEnd = 0, rightStart = arr.length - 1;
+        while (leftEnd < arr.length - 1){
+            if(arr[leftEnd + 1] >= arr[leftEnd])
+                leftEnd++;
+            else
+                break;
+        }
+        while(rightStart >= 1){
+            if(arr[rightStart - 1] <= arr[rightStart])
+                rightStart--;
+            else
+                break;
+        }
+        //如果左边一直递增 那么就是整体递增
+      	//数组长度大于1的时候 如果本身就是递增 那么这两个值根本不会相等 但是数组长度为1 肯定相等
+        if(leftEnd >= rightStart)
+            return 0;
+        //如果左边剩下的 和右边剩下的 拼接起来直接满足递增 那么就返回中间没有的
+        if(arr[leftEnd] <= arr[rightStart])
+            return rightStart - leftEnd - 1;
+        //左边直接不要 和 右边直接不要 哪个删除的更少
+        int min = Math.min(arr.length - leftEnd - 1, rightStart);
+        //左边留一部分 和 右边留一部分
+        for(int i = 0; i <= leftEnd; i++){
+            int target = arr[i];
+            int right = findFirstLargerOrEqual(arr,rightStart,arr.length - 1,target);
+            if(right == -1)
+                break;
+            min = Math.min(min,right - i - 1);
+        }
+        return min;
+    }
+    public int findFirstLargerOrEqual(int[] arr, int left, int right, int target){
+        int res = -1;
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            if(arr[mid] >= target){
+                res = mid;
+                right = mid - 1;
+            }
+            else
+                left = mid + 1;
+        }
+        return res;
+    }
+}
 ```
 
