@@ -1,4 +1,4 @@
-package 自己写的排序专题.冒泡排序;
+package 自己写的排序专题.快速排序;
 
 import java.util.Arrays;
 
@@ -25,6 +25,7 @@ public class Solution {
         arr[i] = arr[j];
         arr[j] = temp;
     }
+
     public void quickSortReverse(int[] arr, int left, int right){
         if(left >= right)
             return;
@@ -42,7 +43,7 @@ public class Solution {
         quickSortReverse(arr, left, i - 1);
         quickSortReverse(arr,i + 1, right);
     }
-    
+
 
     public static void main(String[] args) {
         Solution solution = new Solution();

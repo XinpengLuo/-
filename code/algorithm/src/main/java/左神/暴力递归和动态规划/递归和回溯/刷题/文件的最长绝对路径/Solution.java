@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 public class Solution {
     public int lengthLongestPath(String input) {
+
        HashMap<Integer, Integer> preLevel = new HashMap<Integer,Integer>();
        int res = 0;
         for (String s : input.split("\n")) {
