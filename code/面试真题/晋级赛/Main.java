@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
+
     public static  int getAnswer(int[] arr, int x, int y){
         int left = 0;
         int right = arr.length;
