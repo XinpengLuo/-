@@ -792,34 +792,84 @@ delete的话 先获取到要delete的size 以及最后一条记录的size 最后
 
 1. 首先谈一下结构 整个结构是一个根节点 以及 多叉树 **根据传入的字符串生成其对应的路径**
 
-<img src="/Users/luoxinpeng/Library/Application Support/typora-user-images/image-20210124153935270.png" alt="image-20210124153935270" style="zoom:5%;" />
+<img src="/Users/luoxinpeng/Library/Application Support/typora-user-images/image-20210124153935270.png" alt="image-20210124153935270" style="zoom:25%;" />
 
-2. 每一个节点有三个属性 path代表走过当前节点的次数 end代表以当前节点结尾的次数 next数组代表a到z的路径是否为空
+2. 每一个节点有三个属性 path代表走过`当前节点的次数` end代表`以当前节点结尾的次数`（`以此来求是否有添加过对应的完整的字符串`） `next数组代表a到z的路径是否为空`
 
 3. 插入时 将字符串转换为char数组 依次从root节点移动node节点 将char[i] - 'a' 获取在next中的index 并且对应的path++ 最后一个节点end++
 
    ```java
-    public void insert(String word){
-           if(word.isEmpty())
+   public class TireTree {
+       TireNode root = new TireNode();
+       public boolean search(String word){
+           TireNode node = root;
+           for (int i = 0; i < word.length(); i++) {
+               int temp = word.charAt(i) - 'a';
+               if(node.children[temp] == null)
+                   return false;
+               node = node.children[temp];
+           }
+           return node.end > 0;
+       }
+       public void delete(String word){
+           if(!search(word))
                return;
+           TireNode node = root;
+           for (int i = 0; i < word.length(); i++) {
+               int index = word.charAt(i) - 'a';
+               if(node.children[index].path == 1)
+                   {
+                       node.children[index] = null;
+                       return;
+                   }
+               node.children[index].path--;
+               node = node.children[index];
+           }
+           node.end--;
+       }
+       public boolean isStartWith(String prefix){
+           TireNode node = root;
+           for (int i = 0; i < prefix.length(); i++) {
+               int temp = prefix.charAt(i) - 'a';
+               if(node.children[temp] == null)
+                   return false;
+               node = node.children[temp];
+           }
+           return true;
+       }
+       public void insert(String word){
            char[] chars = word.toCharArray();
-           int index = 0;
-           TrieNode node = root;
-           for (char aChar : chars) {
-               index = aChar - 'a';
-               if(node.next[index] == null){
-                   node.next[index] = new TrieNode();
-               }
-               node = node.next[index];
+           TireNode node = root;
+           for (int i = 0; i < chars.length; i++) {
+               int temp = chars[i] - 'a';
+               if(node.children[temp] == null)
+                   node.children[temp] = new TireNode();
+               node = node.children[temp];
                node.path++;
            }
            node.end++;
-       }	
+       }
+   }
+   class TireNode{
+       int path; //代表有多少次滑过它
+       int end; //代表多少次以这个节点结尾
+       TireNode[] children;
+       public TireNode(){
+           path = 0;
+           end = 0;
+           children = new TireNode[26];
+       }
+   }
+   
    ```
 
-4. 查找某个字符串出现了几次时时也是按照上面这个路径 如果中间某条路径为null 直接return 0 否则return最后一个的end
-5. 查找某个以某个字符串的前缀出现了几次时 如果null 返回0 否则返回最后一个的path
-6. 删除时要注意一点 其实也是按路线遍历 沿途的path-- 最后一个节点end-- 但是考虑到如果--path == 0 则代表其实后面的都不存在了 直接将当前路径置为null 即可
+4. 为什么需要path 和 end，如果你要删除时 你必须得有path， 因为你得确定走过当前path的次数 是否为1 end根据题目情况而定
+
+5. 查找某个字符串出现了几次时时也是按照上面这个路径 如果中间某条路径为null 直接return 0 否则return最后一个的end
+
+6. 查找某个以某个字符串的前缀出现了几次时 如果null 返回0 否则返回最后一个的path
+
+7. 删除时要注意一点 其实也是按路线遍历 沿途的path-- 最后一个节点end-- 但是考虑到如果--path == 0 则代表其实后面的都不存在了 直接将当前路径置为null 即可
 
 
 
