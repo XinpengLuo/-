@@ -1,6 +1,4 @@
-package 前缀树;
-
-import 左神.树专题.公共节点.力扣.TreeNode;
+package 前缀树.标准模版;
 
 public class TireTree {
     TireNode root = new TireNode();
