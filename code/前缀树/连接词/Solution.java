@@ -1,11 +1,10 @@
 package 前缀树.连接词;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
+
 public class Solution {
     TrieNode root = new TrieNode();
     public List<String> findAllConcatenatedWordsInADict(String[] words) {
+
         List<String> res = new ArrayList<>();
         Arrays.sort(words, new Comparator<String>() {
             @Override
