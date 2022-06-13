@@ -8117,3 +8117,110 @@ public class Solution {
     }
 }
 ```
+
+> #### [1177. 构建回文串检测](https://leetcode.cn/problems/can-make-palindrome-from-substring/)
+
+这也是一道非常好的题 注意该区间里的字符可以重排 **所以我们要做的还是统计该区间里不同字符的奇偶性质。**
+
+如果查询区间里 **各个字符出现的次数都为偶数 那么它重新排列后肯定能形成回文字符串**
+
+如果查询区间里 **有n种字符出现的次数是奇数次 其余出现的都是偶数次 那么我们要修改 n / 2 个字符才能形成回文字符串**
+
+为什么？
+
+假设字符串aba b出现了奇数次 此时不用修改本身就是回文串
+
+假设字符串abca b c 出现了奇数次 此时将b修改成c 或者c 修改成b 即可达到目的
+
+假设abcdefghijk....（26个字符） 那么有26个字符都出现了奇数次 拿我们也只要修改13次就好了 不管它的奇数次是3 5 7 还是多少，只需要修改一个 因为奇数 - 1 等于偶数
+
+所以这道题有个优化的点就是，当k > = 13 时，怎样都能修改成回文字符串。！！！
+
+对于普遍的情况，我们用到上一题用二进制压缩状态的方法来记录 字符串不同位置的状态。
+
+**如果查询区间的两个端点的状态是相同的 即同奇同偶 那么区间内字符串肯定是偶数个的 直接true**
+
+**如果查询区间的两个端点状态是不同的 那么肯定一奇一偶 中间肯定是有的字符是奇数个 那么我们让两个端点的状态进行异或 相同状态的字符异或结果为0 不相同状态的结果是1 异或结果中1的个数就是有多少种字符是奇数个 去和 k / 2比较即可**.
+
+如何判断一个数字有多少个1？
+
+```java
+//方法1
+while(n != 0){
+  if(n % 2 == 1)
+    count++;
+   n /= 2;
+}
+
+//方法2
+for(int i = 0; i <= 32; i++)
+  if(n & (1 << i) == 1)
+    count++;
+//方法3
+while(n != 0){
+  n = n & (n - 1);
+  count++;
+}
+
+package 左神.位运算.构建回文串检测;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+public class Solution {
+    public List<Boolean> canMakePaliQueries(String s, int[][] queries) {
+        List<Boolean> res = new ArrayList<>();
+        for (int[] query : queries) {
+            int left = query[0];
+            int right = query[1];
+            int k = query[2];
+            res.add(isValid(s,left,right,k));
+        }
+        return res;
+    }
+    public Boolean isValid(String s, int left, int right, int k){
+        if(k >= 13)
+            return true;
+        HashSet<Character> set = new HashSet<>();
+        for(int i = left; i <= right; i++)
+            if(!set.add(s.charAt(i)))
+                set.remove(s.charAt(i));
+        return set.size() / 2 <= k;
+    }
+    public List<Boolean> better(String s, int[][] queries){
+        List<Boolean> res = new ArrayList<>();
+        int state = 0;
+        int[] map = new int[s.length()];
+        for(int i = 0; i < s.length(); i++){
+            state = state ^ (1 << (s.charAt(i) - 'a'));
+            map[i] = state;
+        }
+        for (int[] query : queries) {
+            int left = query[0];
+            int right = query[1];
+            int k = query[2];
+            if(left == 0)
+            {
+                if(map[right] == 0 || countOne(map[right]) / 2 <= k)
+                    res.add(true);
+                else
+                    res.add(false);
+            }
+            else if(map[left - 1] == map[right] || (countOne((map[left - 1] ^ map[right])) / 2 <= k))
+                res.add(true);
+            else
+                res.add(false);
+        }
+        return res;
+    }
+    public int countOne(int n){
+        int count = 0;
+        while(n != 0){
+            n = n & (n - 1);
+            count++;
+        }
+        return count;
+    }
+}
+
+```
+
