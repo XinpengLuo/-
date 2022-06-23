@@ -4,6 +4,7 @@ import java.net.Socket;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Stack;
 
 class Solution {
     public int minSubarray(int[] nums, int p) {
@@ -148,9 +149,10 @@ class Solution {
         }
         return res;
     }
+
     public static void main(String[] args) {
-        int[] arr = {3,1,4,1,5};
+        int[] arr = {0,0,0,0,0};
         Solution solution = new Solution();
-        System.out.println(solution.findPairs(arr, 2));
+
     }
 }
