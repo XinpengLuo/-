@@ -28,15 +28,17 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        int[] arr = new int[n];
-        for(int i = 0; i < n; i++)
-            arr[i] = scanner.nextInt();
-        int[] answer = getAnswer(arr);
-        for (int i : answer) {
-            System.out.print(i + " ");
-        }
+        System.out.println(9 / 19.0);
+
+//        Scanner scanner = new Scanner(System.in);
+//        int n = scanner.nextInt();
+//        int[] arr = new int[n];
+//        for(int i = 0; i < n; i++)
+//            arr[i] = scanner.nextInt();
+//        int[] answer = getAnswer(arr);
+//        for (int i : answer) {
+//            System.out.print(i + " ");
+//        }
 
     }
 }

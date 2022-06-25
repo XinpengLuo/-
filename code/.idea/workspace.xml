@@ -2,46 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/二分总结/最高频元素的频数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/滑动窗口/串联所有单词的子串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/自己写的排序专题/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/自己写的排序专题/堆排序/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/自己写的排序专题/堆排序/再练堆排序/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/自己写的排序专题/每日练习/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/在D天内送达包裹的能力/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/最高频元素的频数/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/爱吃香蕉的珂珂/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/适龄的朋友/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符的最短距离/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最常见的单词/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/删除最短的子数组使剩余数组有序/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字典序排数/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字典序的第K小数字/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/文件的最长绝对路径/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉搜索树染色/SolutionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/串联所有单词的子串/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/笔试/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/笔试/第三题/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/笔试/第三题/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/堆排序/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/堆排序/再练堆排序/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/快速排序/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/每日练习/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/每日练习/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/荷兰国旗快速排序/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/休息的最少天数/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/视野争夺/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/视野争夺/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/逛街/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/左神/数组和矩阵/刷题/复写零/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/左神/链表专题/链表中的下一个更大节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/其他专题/LRU/Practice/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/其他专题/LRU/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/其他专题/LRU/Standard/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/滑动窗口/存在重复元素三/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/从单向链表中删除指定值的节点/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/最长公共子串/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/存在重复元素三/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/从单向链表中删除指定值的节点/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/从单向链表中删除指定值的节点/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/左神/位运算/使数组能被P整除/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/左神/位运算/使数组能被P整除/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/双指针/接雨水/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/双指针/接雨水/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大子序列交替和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大子序列交替和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/左神/位运算/使数组能被P整除/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/左神/位运算/使数组能被P整除/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/逛街/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/逛街/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/串联所有单词的子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/串联所有单词的子串/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/逛街/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/逛街/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,13 +126,13 @@
       <command value="a" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="自己写的排序专题.每日练习.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.其他专题.LRU.LRUCache" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="自己写的排序专题.每日练习.*" />
+          <option name="PATTERN" value="左神.其他专题.LRU.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.滑动窗口.串联所有单词的子串.Solution" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试真题.华为机试.最长公共子串.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.滑动窗口.串联所有单词的子串.*" />
+          <option name="PATTERN" value="面试真题.华为机试.最长公共子串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试真题.华为机试.从单向链表中删除指定值的节点.Main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试真题.华为机试.从单向链表中删除指定值的节点.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +167,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="自己写的排序专题.Solution" />
+      <option name="MAIN_CLASS_NAME" value="面试真题.逛街.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="自己写的排序专题.*" />
+          <option name="PATTERN" value="面试真题.逛街.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,25 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="自己写的排序专题.堆排序.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.滑动窗口.存在重复元素三.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="自己写的排序专题.堆排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="自己写的排序专题.堆排序.再练堆排序.Solution" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="自己写的排序专题.堆排序.再练堆排序.*" />
+          <option name="PATTERN" value="左神.滑动窗口.存在重复元素三.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +407,9 @@
       <workItem from="1649997364460" duration="2406000" />
       <workItem from="1655771808461" duration="10097000" />
       <workItem from="1655947093125" duration="340000" />
-      <workItem from="1655955447361" duration="790000" />
+      <workItem from="1655955447361" duration="3794000" />
+      <workItem from="1656041249531" duration="630000" />
+      <workItem from="1656088713684" duration="4352000" />
     </task>
     <servers />
   </component>
@@ -440,60 +424,68 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1648441122199" />
-    <state width="1750" height="398" key="GridCell.Tab.0.bottom" timestamp="1655956134044">
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom" timestamp="1656125105917">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.0.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269997" />
-    <state width="1750" height="398" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134044" />
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656125105917" />
+    <state width="1750" height="398" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709854" />
     <state width="1750" height="282" key="GridCell.Tab.0.bottom/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565400" />
-    <state width="1750" height="398" key="GridCell.Tab.0.center" timestamp="1655956134043">
+    <state width="1750" height="398" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
+    <state width="1750" height="281" key="GridCell.Tab.0.center" timestamp="1656125105917">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.0.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269996" />
-    <state width="1750" height="398" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134043" />
+    <state width="1750" height="281" key="GridCell.Tab.0.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656125105917" />
+    <state width="1750" height="398" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709853" />
     <state width="1750" height="282" key="GridCell.Tab.0.center/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565399" />
-    <state width="1750" height="398" key="GridCell.Tab.0.left" timestamp="1655956134043">
+    <state width="1750" height="398" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175783" />
+    <state width="1750" height="281" key="GridCell.Tab.0.left" timestamp="1656125105916">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.0.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269995" />
-    <state width="1750" height="398" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134043" />
+    <state width="1750" height="281" key="GridCell.Tab.0.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656125105916" />
+    <state width="1750" height="398" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709853" />
     <state width="1750" height="282" key="GridCell.Tab.0.left/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565399" />
-    <state width="1750" height="398" key="GridCell.Tab.0.right" timestamp="1655956134043">
+    <state width="1750" height="398" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175783" />
+    <state width="1750" height="281" key="GridCell.Tab.0.right" timestamp="1656125105917">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.0.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269996" />
-    <state width="1750" height="398" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134043" />
+    <state width="1750" height="281" key="GridCell.Tab.0.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656125105917" />
+    <state width="1750" height="398" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709854" />
     <state width="1750" height="282" key="GridCell.Tab.0.right/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565399" />
-    <state width="1750" height="398" key="GridCell.Tab.1.bottom" timestamp="1655956134044">
+    <state width="1750" height="398" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
+    <state width="1750" height="398" key="GridCell.Tab.1.bottom" timestamp="1656090068388">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269998" />
-    <state width="1750" height="398" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134044" />
-    <state width="1750" height="398" key="GridCell.Tab.1.center" timestamp="1655956134044">
+    <state width="1750" height="398" key="GridCell.Tab.1.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
+    <state width="1750" height="398" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709854" />
+    <state width="1750" height="398" key="GridCell.Tab.1.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175785" />
+    <state width="1750" height="398" key="GridCell.Tab.1.center" timestamp="1656090068388">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269997" />
-    <state width="1750" height="398" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134044" />
-    <state width="1750" height="398" key="GridCell.Tab.1.left" timestamp="1655956134044">
+    <state width="1750" height="398" key="GridCell.Tab.1.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
+    <state width="1750" height="398" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709854" />
+    <state width="1750" height="398" key="GridCell.Tab.1.center/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
+    <state width="1750" height="398" key="GridCell.Tab.1.left" timestamp="1656090068388">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269997" />
-    <state width="1750" height="398" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134044" />
-    <state width="1750" height="398" key="GridCell.Tab.1.right" timestamp="1655956134044">
+    <state width="1750" height="398" key="GridCell.Tab.1.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
+    <state width="1750" height="398" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709854" />
+    <state width="1750" height="398" key="GridCell.Tab.1.left/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
+    <state width="1750" height="398" key="GridCell.Tab.1.right" timestamp="1656090068388">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655911269997" />
-    <state width="1750" height="398" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1655956134044" />
+    <state width="1750" height="398" key="GridCell.Tab.1.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
+    <state width="1750" height="398" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1656037709854" />
+    <state width="1750" height="398" key="GridCell.Tab.1.right/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175785" />
     <state x="512" y="199" key="SettingsEditor" timestamp="1655947127135">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="512" y="199" key="SettingsEditor/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655947127135" />
     <state x="512" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1655771876566" />
-    <state x="0" y="25" width="1792" height="1095" key="com.intellij.ide.util.TipDialog" timestamp="1655955448207">
+    <state x="0" y="49" width="1792" height="1095" key="com.intellij.ide.util.TipDialog" timestamp="1656042393650">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="0" y="47" key="com.intellij.ide.util.TipDialog/-1180.325.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1649308379082" />
-    <state x="0" y="25" key="com.intellij.ide.util.TipDialog/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1655947093666" />
+    <state x="0" y="49" key="com.intellij.ide.util.TipDialog/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656042393650" />
     <state x="0" y="25" width="1792" height="1095" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1655955448207" />
     <state x="252" y="258" key="new project wizard" timestamp="1648631366509">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -758,6 +750,11 @@
           <line>12</line>
           <option name="timeStamp" value="195" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/其他专题/LRU/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/活字印刷/Solution.java</url>
           <line>30</line>
@@ -775,6 +772,9 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$LRUCache.ic" NAME="LRUCache Coverage Results" MODIFIED="1656037054095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>左神.其他专题.LRU.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1641811961257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>左神.字符串.累加数.*</FILTER>
     </SUITE>
