@@ -1,8 +1,6 @@
 package 左神.栈和队列.简化路径;
-import java.util.ArrayList;
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
+
 public class Solution {
     public String simplifyPath(String path) {
         List<String> res = new ArrayList<>();
@@ -50,10 +48,31 @@ public class Solution {
             sb.append("/" + deque.pollFirst());
         return sb.toString();
     }
-
+    public static int smallestDifference(int[] a, int[] b) {
+        Arrays.sort(a);
+        Arrays.sort(b);
+        int i = 0, j = 0;
+        long res = Long.MAX_VALUE;
+        while(i < a.length && j < b.length){
+            if(a[i] == b[j])
+                return 0;
+            else{
+                long dif = Math.abs((long)(a[i] - b[j]));
+                res = Math.min(res, dif);
+                if(a[i] > b[j])
+                    j++;
+                else
+                    i++;
+            }
+        }
+        return (int)res;
+    }
     public static void main(String[] args) {
-        String test = "/home//foo/";
-        Solution solution = new Solution();
-        System.out.println(solution.better(test));
+        int[] a = {-2147483648,1};
+        int[] b = {2147483647,0};
+        System.out.println(smallestDifference(a, b));
+//        String test = "/home//foo/";
+//        Solution solution = new Solution();
+//        System.out.println(solution.better(test));
     }
 }
