@@ -39,3 +39,21 @@ public class Solution {
         System.out.println(solution.getMinPath(arr));
     }
 }
+class A{
+    public A(){
+        System.out.println("aaaaa");
+    }
+}
+class Test{
+    static int a;
+    static A aa = new A();
+    public Test(){
+        System.out.println("chu");
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Test.a);
+        Test.a = 1;
+        System.out.println(Test.a);
+    }
+}

@@ -2,27 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/每个查询的最大异或值/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/删除一个字符串中所有出现的给定子字符串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/最长特殊序列2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/统计放置房子的方式数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/队列的最大值/MaxQueueBetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/队列的最大值/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/链表专题/从链表中删去总和值为零的连续节点/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/特殊的递增序列/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/删除一个字符串中所有出现的给定子字符串/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长特殊序列2/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计放置房子的方式数/Solution$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计放置房子的方式数/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/MaxQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/MaxQueueBetter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/从链表中删去总和值为零的连续节点/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/特殊的递增序列/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第一题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第三题知道秘密的人数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第二题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/网格中递增路径的数目/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/两个回文子序列长度的最大乘积/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/最低加油次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第一题/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第三题知道秘密的人数/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第二题/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/两个回文子序列长度的最大乘积/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/使数组能被P整除/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/字符串的好分割数目/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/形成两个异或相等数组的三元组数目/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/找出最长的超赞子字符串/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/数组中两个数的最大异或值/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/数组中两个数的最大异或值/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/最美子字符串的数目/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/构建回文串检测/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/每个元音包含偶数次的最长子字符串/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/每个查询的最大异或值/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/连续数组/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/递增子序列/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最低加油次数/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最低加油次数/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/简化路径/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/简化路径/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/简化路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/简化路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/每个查询的最大异或值/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/每个查询的最大异或值/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/特殊的递增序列/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/特殊的递增序列/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/使数组能被P整除/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/使数组能被P整除/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/字符串的好分割数目/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/字符串的好分割数目/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/形成两个异或相等数组的三元组数目/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/形成两个异或相等数组的三元组数目/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/找出最长的超赞子字符串/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/找出最长的超赞子字符串/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/数组中两个数的最大异或值/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/数组中两个数的最大异或值/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/最美子字符串的数目/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/最美子字符串的数目/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/构建回文串检测/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/构建回文串检测/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/每个元音包含偶数次的最长子字符串/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/每个元音包含偶数次的最长子字符串/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/连续数组/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/连续数组/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/左神/位运算/递增子序列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/递增子序列/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,20 +121,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algorithm/src/main/java/左神/随想录" />
-      <recent name="$PROJECT_DIR$/untitled/src/main/java" />
-      <recent name="$PROJECT_DIR$/untitled/src/test/java/反射" />
-      <recent name="$PROJECT_DIR$/untitled/src/main/resources" />
-      <recent name="$PROJECT_DIR$/untitled/src/test/java" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="周赛.第二题" />
-      <recent name="多态和接口案例" />
-      <recent name="剑指offer.合并区间" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithm" />
@@ -119,32 +131,31 @@
       <recent name="$PROJECT_DIR$/untitled/src/main/java" />
       <recent name="$PROJECT_DIR$/untitled/src/main/resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="周赛.第二题" />
+      <recent name="多态和接口案例" />
+      <recent name="剑指offer.合并区间" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算" />
+      <recent name="$PROJECT_DIR$/algorithm/src/main/java/左神/随想录" />
+      <recent name="$PROJECT_DIR$/untitled/src/main/java" />
+      <recent name="$PROJECT_DIR$/untitled/src/test/java/反射" />
+      <recent name="$PROJECT_DIR$/untitled/src/main/resources" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="a" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试真题.华为机试.特殊的递增序列.Main" />
+  <component name="RunManager" selected="Application.Solution (3)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛.第十六次周赛.第三题知道秘密的人数.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试真题.华为机试.特殊的递增序列.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.栈和队列.队列的最大值.Solution" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左神.栈和队列.队列的最大值.*" />
+          <option name="PATTERN" value="周赛.第十六次周赛.第三题知道秘密的人数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +164,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.字符串.删除一个字符串中所有出现的给定子字符串.Solution" />
+      <option name="MAIN_CLASS_NAME" value="周赛.第十六次周赛.网格中递增路径的数目.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.字符串.删除一个字符串中所有出现的给定子字符串.*" />
+          <option name="PATTERN" value="周赛.第十六次周赛.网格中递增路径的数目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +177,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.链表专题.从链表中删去总和值为零的连续节点.Solution" />
+      <option name="MAIN_CLASS_NAME" value="周赛.第十六次周赛.第一题.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.链表专题.从链表中删去总和值为零的连续节点.*" />
+          <option name="PATTERN" value="周赛.第十六次周赛.第一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +189,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.栈和队列.简化路径.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛.第十六次周赛.第二题.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.栈和队列.简化路径.*" />
+          <option name="PATTERN" value="周赛.第十六次周赛.第二题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.暴力递归和动态规划.动态规划.刷题.Test" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.暴力递归和动态规划.动态规划.刷题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +432,7 @@
       <workItem from="1655947093125" duration="340000" />
       <workItem from="1655955447361" duration="3794000" />
       <workItem from="1656041249531" duration="630000" />
-      <workItem from="1656088713684" duration="13304000" />
+      <workItem from="1656088713684" duration="30481000" />
     </task>
     <servers />
   </component>
@@ -419,61 +443,65 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="358" y="489" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1656818521086">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="358" y="489" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656818521086" />
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1648441122199">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1648441122199" />
-    <state width="1750" height="239" key="GridCell.Tab.0.bottom" timestamp="1656517202936">
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom" timestamp="1656863964927">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="239" key="GridCell.Tab.0.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656517202936" />
-    <state width="1750" height="398" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055935" />
+    <state width="1750" height="273" key="GridCell.Tab.0.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964927" />
+    <state width="1750" height="441" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773677" />
     <state width="1750" height="282" key="GridCell.Tab.0.bottom/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565400" />
-    <state width="1750" height="398" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
-    <state width="1750" height="239" key="GridCell.Tab.0.center" timestamp="1656517202935">
+    <state width="1750" height="404" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1656816093171" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center" timestamp="1656863964925">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="239" key="GridCell.Tab.0.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656517202935" />
-    <state width="1750" height="398" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055934" />
+    <state width="1750" height="273" key="GridCell.Tab.0.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964925" />
+    <state width="1750" height="441" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773676" />
     <state width="1750" height="282" key="GridCell.Tab.0.center/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565399" />
-    <state width="1750" height="398" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175783" />
-    <state width="1750" height="239" key="GridCell.Tab.0.left" timestamp="1656517202935">
+    <state width="1750" height="404" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1656816093170" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left" timestamp="1656863964925">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="239" key="GridCell.Tab.0.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656517202935" />
-    <state width="1750" height="398" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055934" />
+    <state width="1750" height="273" key="GridCell.Tab.0.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964925" />
+    <state width="1750" height="441" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773676" />
     <state width="1750" height="282" key="GridCell.Tab.0.left/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565399" />
-    <state width="1750" height="398" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175783" />
-    <state width="1750" height="239" key="GridCell.Tab.0.right" timestamp="1656517202936">
+    <state width="1750" height="404" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1656816093169" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right" timestamp="1656863964926">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="239" key="GridCell.Tab.0.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656517202936" />
-    <state width="1750" height="398" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055934" />
+    <state width="1750" height="273" key="GridCell.Tab.0.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964926" />
+    <state width="1750" height="441" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773676" />
     <state width="1750" height="282" key="GridCell.Tab.0.right/0.25.1792.1005@0.25.1792.1005" timestamp="1650040565399" />
-    <state width="1750" height="398" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
-    <state width="1750" height="398" key="GridCell.Tab.1.bottom" timestamp="1656479055935">
+    <state width="1750" height="404" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1656816093170" />
+    <state width="1750" height="273" key="GridCell.Tab.1.bottom" timestamp="1656863964928">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
-    <state width="1750" height="398" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055935" />
+    <state width="1750" height="273" key="GridCell.Tab.1.bottom/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964928" />
+    <state width="1750" height="441" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773838" />
     <state width="1750" height="398" key="GridCell.Tab.1.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175785" />
-    <state width="1750" height="398" key="GridCell.Tab.1.center" timestamp="1656479055935">
+    <state width="1750" height="273" key="GridCell.Tab.1.center" timestamp="1656863964927">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
-    <state width="1750" height="398" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055935" />
+    <state width="1750" height="273" key="GridCell.Tab.1.center/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964927" />
+    <state width="1750" height="441" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773837" />
     <state width="1750" height="398" key="GridCell.Tab.1.center/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
-    <state width="1750" height="398" key="GridCell.Tab.1.left" timestamp="1656479055935">
+    <state width="1750" height="273" key="GridCell.Tab.1.left" timestamp="1656863964927">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
-    <state width="1750" height="398" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055935" />
+    <state width="1750" height="273" key="GridCell.Tab.1.left/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964927" />
+    <state width="1750" height="441" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773837" />
     <state width="1750" height="398" key="GridCell.Tab.1.left/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175784" />
-    <state width="1750" height="398" key="GridCell.Tab.1.right" timestamp="1656479055935">
+    <state width="1750" height="273" key="GridCell.Tab.1.right" timestamp="1656863964928">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="398" key="GridCell.Tab.1.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656090068388" />
-    <state width="1750" height="398" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1656479055935" />
+    <state width="1750" height="273" key="GridCell.Tab.1.right/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656863964928" />
+    <state width="1750" height="441" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1656850773838" />
     <state width="1750" height="398" key="GridCell.Tab.1.right/0.25.1792.1095@0.25.1792.1095" timestamp="1656041175785" />
     <state x="512" y="199" key="SettingsEditor" timestamp="1655947127135">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -490,6 +518,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="252" y="258" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1648631366509" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1656818621016">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/-1180.365.1180.795/0.0.1792.1120@0.0.1792.1120" timestamp="1656818621016" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -758,6 +790,36 @@
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/简化路径/Solution.java</url>
           <line>54</line>
           <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/每个查询的最大异或值/Solution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第一题/Solution.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第一题/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第二题/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/网格中递增路径的数目/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/网格中递增路径的数目/Solution.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="228" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/活字印刷/Solution.java</url>

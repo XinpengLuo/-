@@ -1,5 +1,8 @@
 package 左神.位运算.每个查询的最大异或值;
 
+import java.net.Socket;
+import java.util.Arrays;
+
 class Solution {
     public int[] getMaximumXor(int[] nums, int maximumBit) {
         int temp = 0;
@@ -24,5 +27,28 @@ class Solution {
             temp ^= nums[nums.length - i - 1];
         }
         return res;
+    }
+    public long minimalKSum(int[] nums, int k) {
+        int sum = 0;
+        Arrays.sort(nums);
+        int index = 0;
+        int target = 1;
+        while(k != 0){
+            if(index >= nums.length || nums[index] != target){
+                sum += target;
+                k--;
+                target++;
+                continue;
+            }
+            index++;
+            target++;
+        }
+        return sum;
+    }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        int[] arr = {5,6};
+        System.out.println(solution.minimalKSum(arr, 6));
     }
 }
