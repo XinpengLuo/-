@@ -1,6 +1,5 @@
 package 左神.字符串.检测大写字母;
 
-import javafx.beans.value.WritableObjectValue;
 
 public class Solution {
     public boolean detectCapitalUse(String word) {

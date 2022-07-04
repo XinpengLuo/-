@@ -1,6 +1,6 @@
 package 左神.栈和队列.单调栈.山峰队;
 
-import javafx.scene.chart.ValueAxis;
+
 
 import java.util.Stack;
 
