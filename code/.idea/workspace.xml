@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/优势洗牌或者田忌赛马/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第一题/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十六次周赛/第一题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/统计一致字符串的数目/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -391,7 +389,7 @@
       <workItem from="1655955447361" duration="3794000" />
       <workItem from="1656041249531" duration="630000" />
       <workItem from="1656088713684" duration="31088000" />
-      <workItem from="1656909977769" duration="737000" />
+      <workItem from="1656909977769" duration="1064000" />
     </task>
     <servers />
   </component>
