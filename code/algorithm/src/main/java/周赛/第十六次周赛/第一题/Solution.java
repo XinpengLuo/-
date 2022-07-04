@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 public class Solution {
+
     public String decodeMessage(String key, String message) {
         StringBuilder sb = new StringBuilder();
         HashSet<Character> set = new HashSet<>();
