@@ -5,651 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/整数转换/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/最长的美好子字符串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/根据数字二进制下1的数目排序/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/翻转数位/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/最长的美好子字符串/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/根据数字二进制下1的数目排序/Solution$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/根据数字二进制下1的数目排序/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/统计一致字符串的数目/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/优势洗牌或者田忌赛马/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/回文排列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/或运算的最小翻转次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离总和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/配对交换/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/回文排列/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/或运算的最小翻转次数/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/汉明距离/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/配对交换/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/k个一组反转单链表/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十次周赛/第三题/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第十次周赛/第三题/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/检测大写字母/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/检测大写字母/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/递归和回溯/刷题/连续差相同的数字/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/递归和回溯/刷题/连续差相同的数字/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/单调栈/山峰队/Communication.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/单调栈/山峰队/Communication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/CTF/CTF4.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/CTF/CTF4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/CTF/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/CTF/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/META-INF/algorithm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/leetcode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/leetcode/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/leetcode/sortLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/leetcode/sortLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/leetcode/合并区间/mergeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/leetcode/合并区间/mergeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/leetcode/回文链表/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/leetcode/回文链表/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/leetcode/回文链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/leetcode/回文链表/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/leetcode/数组专题/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/leetcode/数组专题/ArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/leetcode/最富有客户的资产总量/RichClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/leetcode/最富有客户的资产总量/RichClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/临时测试/FFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/临时测试/FFF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/临时测试/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/临时测试/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/临时测试/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/临时测试/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/剑指offer/数组中重复的数字/FindRepeatNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/剑指offer/数组中重复的数字/FindRepeatNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第四题/Encrypter.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第14次周赛/第四题/Encrypter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第一次周赛/第一题_统计字符串中的元音子字符串/所有子字符串中的元音/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第一次周赛/第一题_统计字符串中的元音子字符串/所有子字符串中的元音/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第一次周赛/第二题_所有子字符串中的元音/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第一次周赛/第二题_所有子字符串中的元音/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第四题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第七次周赛/第四题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第三次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第三次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第三次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第三次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第三次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第三次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第九次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第九次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第九次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第九次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第九次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第九次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第三题/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第三题/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第三题/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第三题/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第二题/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第二题/Robot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第二题/RobotBetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第二题/RobotBetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第四题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第二次周赛/第四题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第五次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第五次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第五次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第五次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第五次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第五次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第四题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第八次周赛/第四题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第四题/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第四题/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第四题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第六次周赛/第四题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第四题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十一次周赛/第四题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十三次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十三次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十三次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十三次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第二题/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第二题/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十二次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十五次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十五次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第三题知道秘密的人数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第三题知道秘密的人数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十六次周赛/网格中递增路径的数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第三题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第三题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第四题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第十次周赛/第四题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第四次周赛/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第四次周赛/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第四次周赛/第三题/RangeFreqQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第四次周赛/第三题/RangeFreqQuery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第四次周赛/第二题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第四次周赛/第二题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/双向链表/DoubleHeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/双向链表/DoubleHeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/双向链表/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/双向链表/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/双向链表/DoubleLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/双向链表/DoubleLinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/排序/sortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/排序/sortDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/排序/sortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/排序/sortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/数组和单链表/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/数组和单链表/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/数组和单链表/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/数组和单链表/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/数组和单链表/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/数组和单链表/LinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/ListStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/ListStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/arrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/arrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/sortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/栈/sortDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/环形链表/JosephDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/环形链表/JosephDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/环形链表/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/环形链表/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/环形链表/circleList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/环形链表/circleList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/递归/Maze.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/递归/Maze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/队列/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/队列/ArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/队列/CircleQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/队列/CircleQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/队列/QueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/基本数据结构/队列/QueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/两个最好的不重叠活动/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/两个最好的不重叠活动/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/两个最好的不重叠活动/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/两个最好的不重叠活动/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/在D天内送达包裹的能力/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/在D天内送达包裹的能力/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/寻找峰值/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/寻找峰值/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/数对和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/数对和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/最高频元素的频数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/最高频元素的频数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/有序矩阵中第K小的元素/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/有序矩阵中第K小的元素/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/有序矩阵中第K小的元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/有序矩阵中第K小的元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/有效三角形的个数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/有效三角形的个数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/爱吃香蕉的珂珂/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/爱吃香蕉的珂珂/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/蜡烛之间的盘子/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/蜡烛之间的盘子/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/适龄的朋友/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/二分总结/适龄的朋友/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/两个回文子序列长度的最大乘积/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/两个回文子序列长度的最大乘积/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/使数组能被P整除/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/使数组能被P整除/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/字符串的好分割数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/字符串的好分割数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/形成两个异或相等数组的三元组数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/形成两个异或相等数组的三元组数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/找出最长的超赞子字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/找出最长的超赞子字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/数组中两个数的最大异或值/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/数组中两个数的最大异或值/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/数组中两个数的最大异或值/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/数组中两个数的最大异或值/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/最美子字符串的数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/最美子字符串的数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/构建回文串检测/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/构建回文串检测/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/每个元音包含偶数次的最长子字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/每个元音包含偶数次的最长子字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/每个查询的最大异或值/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/每个查询的最大异或值/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/连续数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/连续数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/递增子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/递增子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Practice/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/LRU/Standard/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/一周中的第几天/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/一周中的第几天/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/二维网格迁移/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/二维网格迁移/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/最简分数/Again.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/最简分数/Again.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/最简分数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/最简分数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/有效的平方数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/有效的平方数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/股票价格波动/StockPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/其他专题/股票价格波动/StockPrice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/双指针/接雨水/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/双指针/接雨水/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/双指针/旋转数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/双指针/旋转数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/Bigram分词/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/Bigram分词/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/一和零/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/一和零/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/不同的子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/不同的子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/不想交的线/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/不想交的线/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/两个列表的最小索引总和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/两个列表的最小索引总和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/两个字符串的删除操作/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/两个字符串的删除操作/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/交错字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/交错字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/亲密字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/亲密字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/仅仅反转字母/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/仅仅反转字母/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/从叶节点开始的最小字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/从叶节点开始的最小字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/使字符串平衡的最少删除次数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/使字符串平衡的最少删除次数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/删除一个字符串中所有出现的给定子字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/删除一个字符串中所有出现的给定子字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/删除字符串两端相同字符后的最短长度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/删除字符串两端相同字符后的最短长度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/删除字符串中所有相邻的项/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/删除字符串中所有相邻的项/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/判断句子是否为全字母句/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/判断句子是否为全字母句/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/判断子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/判断子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词拆分/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词拆分/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词拆分2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词拆分2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词演变/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词演变/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词规律/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/单词规律/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/去除重复字母/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/去除重复字母/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/句子中的有效单词数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/句子中的有效单词数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/向字符串添加空格/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/向字符串添加空格/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/回文子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/回文子串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/困于环中的机器人/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/困于环中的机器人/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/复数乘法/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/复数乘法/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串中单词的个数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串中单词的个数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串的排列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串的排列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串相加/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串相加/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符的最短距离/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符的最短距离/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/密钥格式化/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/密钥格式化/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/打开转盘锁/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/打开转盘锁/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/按键持续时间最长的键/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/按键持续时间最长的键/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/推多米诺/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/推多米诺/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/搜索推荐系统/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/搜索推荐系统/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/数青蛙/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/数青蛙/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/旋转字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/旋转字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/无重复字符的最长字串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/无重复字符的最长字串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/替换所有的问号/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/替换所有的问号/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最后一个单词的长度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最后一个单词的长度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最大单词长度乘积/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最大单词长度乘积/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最常见的单词/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最常见的单词/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最短补全词/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最短补全词/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长公共前缀/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长公共前缀/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长公共子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长公共子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文子串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长字符串链/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长字符串链/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长字符串链/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长字符串链/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长特殊序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长特殊序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长特殊序列2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长特殊序列2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长连续递增序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长连续递增序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长重复子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长重复子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/格雷码/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/格雷码/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/检查替换后的词是否有效/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/检查替换后的词是否有效/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/检测大写字母/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/检测大写字母/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/模式匹配/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/模式匹配/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/比较版本号/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/比较版本号/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/活字印刷/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/活字印刷/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/神奇字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/神奇字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/累加数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/累加数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/统计只差一个字符的子串数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/统计只差一个字符的子串数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/翻转字符串里的单词/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/翻转字符串里的单词/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/自定义字符串排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/自定义字符串排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/至少有K个重复字符的最长子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/至少有K个重复字符的最长子串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/解码字母到整数映射/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/解码字母到整数映射/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/词典中最长的单词/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/词典中最长的单词/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/词典中最长的单词/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/词典中最长的单词/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/连续字符/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/连续字符/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/避免重复字母的最小删除成本/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/避免重复字母的最小删除成本/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/重复的DNA序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/重复的DNA序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/银行中的激光束数量/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/银行中的激光束数量/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/键值映射/MapSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/键值映射/MapSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/并查集/Island.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/并查集/Island.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/并查集/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/并查集/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/并查集/UnionFindSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/并查集/UnionFindSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/排序专题/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/排序专题/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/排序专题/sortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/排序专题/sortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/排序专题/最小时间差/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/排序专题/最小时间差/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/ArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/八皇后/EightQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/八皇后/EightQueens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/k次取反/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/k次取反/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/下一个排列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/下一个排列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/下一个更大元素3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/下一个更大元素3/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/乘积小于k的子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/乘积小于k的子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/二倍数对数组/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/二倍数对数组/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/二倍数对数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/二倍数对数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/保持城市天际线/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/保持城市天际线/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/分割等和子集/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/分割等和子集/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/分数到小数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/分数到小数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/分组得分最高的所有下标/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/分组得分最高的所有下标/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/删除最短的子数组使剩余数组有序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/删除最短的子数组使剩余数组有序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/前k个高频元素/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/前k个高频元素/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/前k个高频元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/前k个高频元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/区间子数组个数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/区间子数组个数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/只出现一次的数字2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/只出现一次的数字2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/只出现一次的数字3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/只出现一次的数字3/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/合并排序数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/合并排序数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/和为K的子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/和为K的子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/和为奇数子数组的数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/和为奇数子数组的数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/和相同的二元子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/和相同的二元子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/在线选举/TopVotedCandidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/在线选举/TopVotedCandidate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/子集1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/子集1/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/子集2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/子集2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/完美矩形/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/完美矩形/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/完美矩形/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/完美矩形/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/对奇偶下标分别排序/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/对奇偶下标分别排序/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/对奇偶下标分别排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/对奇偶下标分别排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/差的绝对值为K的数对数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/差的绝对值为K的数对数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/打乱数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/打乱数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/找出缺失的观测数据/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/找出缺失的观测数据/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/找出缺失的观测数据/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/找出缺失的观测数据/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/把数组排成最小的数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/把数组排成最小的数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/拆分数位后四位数字的最小和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/拆分数位后四位数字的最小和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/提莫攻击/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/提莫攻击/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/搜索二维矩阵/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/搜索二维矩阵/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/搜索二维矩阵2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/搜索二维矩阵2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/搜索旋转排序数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/搜索旋转排序数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/数组中第k大的元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/数组中第k大的元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/数组的度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/数组的度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最大数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最大数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最短无序连续子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最短无序连续子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最长和谐子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最长和谐子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最长连续序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最长连续序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/有序数组中的单一元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/有序数组中的单一元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/有效的井字游戏/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/有效的井字游戏/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/有效的数独/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/有效的数独/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/机器人能否返回原点/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/机器人能否返回原点/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/杨辉三角/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/杨辉三角/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/查找和最小的K对数字/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/查找和最小的K对数字/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/查找和最小的K对数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/查找和最小的K对数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/根据给定数字划分数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/根据给定数字划分数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/检测正方形/DetectSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/检测正方形/DetectSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/求众数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/求众数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/滑动窗口最大值/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/滑动窗口最大值/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/滑动窗口最大值/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/滑动窗口最大值/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/煎饼排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/煎饼排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/煎饼排序/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/煎饼排序/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/相对名次/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/相对名次/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/矩阵中的幸运数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/矩阵中的幸运数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/穷举所有数独/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/穷举所有数独/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第k个最小的素数分数/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第k个最小的素数分数/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第k个最小的素数分数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第k个最小的素数分数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第n位数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第n位数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第三大的数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/第三大的数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/统计作战单位数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/统计作战单位数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/至少是其他数字两倍的最大数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/至少是其他数字两倍的最大数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/范围求和2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/范围求和2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/解数独/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/解数独/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/解码方法/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/解码方法/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/调整数组顺序使奇数位于偶数前面/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/调整数组顺序使奇数位于偶数前面/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重写LRU/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重写LRU/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重写LRU/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重写LRU/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重写LRU/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重写LRU/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重排数字的最小值/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/重排数字的最小值/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/随机翻转矩阵/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/随机翻转矩阵/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/颜色分类荷兰国旗问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/颜色分类荷兰国旗问题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/有序矩阵中第K个最小数组和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/有序矩阵中第K个最小数组和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/K个逆序对数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/K个逆序对数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/K站中转内最便宜的航班/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/K站中转内最便宜的航班/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/N个骰子的点数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/N个骰子的点数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/三步问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/三步问题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/三角形的最小路径和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/三角形的最小路径和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/下降路径最小和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/下降路径最小和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/下降路径最小和2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/下降路径最小和2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/不同路径系列/不同路径2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/不同路径系列/不同路径2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/不同路径系列/不同路径3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/不同路径系列/不同路径3/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/丑数系列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/丑数系列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/乘积最大子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/乘积最大子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/一/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/一/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/三/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/三/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/二/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/二/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/四/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/四/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/带冷冻期/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/带冷冻期/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/带手续费/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/买卖股票的最大利润/带手续费/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/俄罗斯套娃问题/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/俄罗斯套娃问题/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/俄罗斯套娃问题/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/俄罗斯套娃问题/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/俄罗斯套娃问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/俄罗斯套娃问题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/做菜顺序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/做菜顺序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/停在原地的方案数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/停在原地的方案数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出界的路径数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出界的路径数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/出租车的最大盈利/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/分披萨/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/分披萨/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/分汤/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/分汤/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/分隔数组以得到最大和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/分隔数组以得到最大和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/删除并获得点数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/删除并获得点数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/剪绳子/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/剪绳子/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/只有两个键的键盘/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/只有两个键的键盘/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/吃掉n个橘子的最少天数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/吃掉n个橘子的最少天数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/和为奇数的子数组数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/和为奇数的子数组数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/地下城游戏/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/地下城游戏/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/堆箱子/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/堆箱子/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/堆箱子/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/堆箱子/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/堆箱子/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/堆箱子/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/安排邮筒/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/安排邮筒/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/将数字变成0的操作次数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/将数字变成0的操作次数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/小球会落向何处/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/小球会落向何处/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/工作计划的最低难度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/工作计划的最低难度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/弱角色的数量/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/弱角色的数量/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/弱角色的数量/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/弱角色的数量/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/戳气球/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/戳气球/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/打家劫舍系列/Rob2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/打家劫舍系列/Rob2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/打家劫舍系列/Rob3.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/打家劫舍系列/Rob3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/打家劫舍系列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/打家劫舍系列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/摘樱桃/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/摘樱桃/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/数组中的逆序对/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/数组中的逆序对/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/整数替换/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/整数替换/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/新21点/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/新21点/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/旋转函数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/旋转函数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/无重叠区间/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最低加油次数/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最低加油次数/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最低加油次数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最低加油次数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最佳观光组合/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最佳观光组合/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大子序列交替和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大子序列交替和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大子序和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大子序和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大平均值和分组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大平均值和分组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大正方形/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大正方形/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最小跳跃次数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最小跳跃次数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最少侧跳次数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最少侧跳次数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最接近目标价格的甜点成本/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最接近目标价格的甜点成本/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长定差子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长定差子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长数对链/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长等差数列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长等差数列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长递增子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长递增子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最高的广告牌/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最高的广告牌/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/火车票/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/火车票/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/猜数字2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/猜数字2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/盈利计划/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/盈利计划/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/矩阵中最长递增路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/矩阵中最长递增路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/石子游戏2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/石子游戏2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/硬币/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/硬币/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/等差数列划分子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/等差数列划分子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计元音字母序列的数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计元音字母序列的数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计全为1的正方形子矩阵/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计全为1的正方形子矩阵/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计放置房子的方式数/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计放置房子的方式数/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计放置房子的方式数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计放置房子的方式数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计特殊子序列的数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/统计特殊子序列的数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/编辑距离/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/编辑距离/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/网格中的最短路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/网格中的最短路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/规划兼职工作/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/规划兼职工作/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/规划兼职工作/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/规划兼职工作/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏2/Again.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏2/Again.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏3/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏4/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏6/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏6/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏VII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/跳跃游戏VII/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/递增的三元子序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/递增的三元子序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/青蛙过河/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/青蛙过河/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/香槟塔/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/香槟塔/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/马在棋盘上的概率/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/马在棋盘上的概率/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/马戏团人塔/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/马戏团人塔/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/马戏团人塔/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/马戏团人塔/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/骑士拨号/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/骑士拨号/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/博弈问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/博弈问题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/博弈问题/石子游戏/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/博弈问题/石子游戏/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/可以被3整除的最大和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/可以被3整除的最大和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/可获得的最大点数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/可获得的最大点数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/和为目标值的最大数目不重叠非空子数组数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/和为目标值的最大数目不重叠非空子数组数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/和为目标值的最大数目不重叠非空子数组数目/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/和为目标值的最大数目不重叠非空子数组数目/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/换钱的方法数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/换钱的方法数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/机器人左右走/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/机器人左右走/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/目标和带符号/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/目标和带符号/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/股票的最大利润/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/股票的最大利润/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/连续数组的最大和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/连续数组的最大和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/连续数组的最大和/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/标准推导/连续数组的最大和/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/二维数组的最小路径/MinPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/二维数组的最小路径/MinPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/二维数组查找/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/二维数组查找/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/优美的排列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/优美的排列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/剑指OfferII083没有重复元素集合的全排列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/剑指OfferII083没有重复元素集合的全排列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/单词搜索/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/单词搜索/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/外观数列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/外观数列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/大礼包/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/大礼包/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字典序排数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字典序排数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字典序的第K小数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字典序的第K小数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字母大小写全排列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字母大小写全排列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字母版上的路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/字母版上的路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/救生艇/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/救生艇/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/文件的最长绝对路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/文件的最长绝对路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/有效的数独/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/有效的数独/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/机器人的运动范围/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/机器人的运动范围/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/灯泡开关/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/灯泡开关/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/甲板上的战舰/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/甲板上的战舰/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/电话号码中的字母组合/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/电话号码中的字母组合/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/电话号码中的字母组合/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/电话号码中的字母组合/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/矩阵中的路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/矩阵中的路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/祖玛游戏/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/祖玛游戏/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/给表达式添加运算符/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/给表达式添加运算符/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/解码方法2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/解码方法2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/连续差相同的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/连续差相同的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/迷路的机器人/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/迷路的机器人/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/顺次数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/顺次数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/飞地的数量/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/飞地的数量/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/黄金矿工/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/黄金矿工/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/所有子序列/AllSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/所有子序列/AllSeq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/数组累加/IsSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/数组累加/IsSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/母牛/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/母牛/Cow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/汉诺塔/Tower.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/汉诺塔/Tower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/最后一节/最长小于等于aim的子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/最后一节/最长小于等于aim的子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈/有效的括号/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈/有效的括号/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/QueueStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/QueueStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/QueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/QueueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/StackQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/StackQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/剑指OfferII059/KthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/剑指OfferII059/KthLargest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/SingleStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/SingleStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/下一个更大元素1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/下一个更大元素1/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/下一个更大元素2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/下一个更大元素2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/山峰队/Communication.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/山峰队/Communication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/山峰队/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/山峰队/Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/柱状图中最大的矩形/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/柱状图中最大的矩形/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/每日温度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/每日温度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/移掉k位数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/移掉k位数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/队列中可以看到的人数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/队列中可以看到的人数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/找到K个最接近的元素/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/找到K个最接近的元素/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/找到K个最接近的元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/找到K个最接近的元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/最小栈/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/最小栈/MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/根据字符出现频率排序/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/根据字符出现频率排序/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/根据字符出现频率排序/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/根据字符出现频率排序/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/根据字符出现频率排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/根据字符出现频率排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/简化路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/简化路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/MaxQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/MaxQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/MaxQueueBetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/MaxQueueBetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/队列的最大值/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/公共节点/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/公共节点/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/公共节点/力扣/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/公共节点/力扣/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/公共节点/力扣/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/公共节点/力扣/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/两数之和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/两数之和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉搜索树染色/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉搜索树染色/SolutionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉搜索树转链表/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉搜索树转链表/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉搜索树转链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉搜索树转链表/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树最长连续序列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树最长连续序列/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树的堂兄节点/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树的堂兄节点/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树的直径/ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树的直径/ReturnData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树的直径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/二叉树的直径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/受污染的二叉树/FindElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/受污染的二叉树/FindElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/受污染的二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/受污染的二叉树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/在二叉树中增加一行/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/在二叉树中增加一行/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/填充右指针/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/填充右指针/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/填充右指针/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/填充右指针/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/多叉树的深度/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/多叉树的深度/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/多叉树的深度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/多叉树的深度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/好节点的数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/好节点的数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/寻找二叉树的叶子节点/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/寻找二叉树的叶子节点/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/找出克隆二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/找出克隆二叉树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/数组转二叉搜索树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/数组转二叉搜索树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/新的刷题集合/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/新的刷题集合/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/最大交叉路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/最大交叉路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/最长同值路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/最长同值路径/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/根到路径上的不足节点/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/根到路径上的不足节点/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/祖父节点值为偶数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/祖父节点值为偶数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/统计同值子树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/统计同值子树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/节点与其祖先最大差值/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/节点与其祖先最大差值/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/BinaryTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/BinaryTreeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/morris遍历/Morris.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/morris遍历/Morris.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/前缀树/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/前缀树/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/前缀树/TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/前缀树/TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/序列化二叉树/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/序列化二叉树/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/序列化二叉树/SequenceTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/序列化二叉树/SequenceTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/完全二叉树/CompleteBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/完全二叉树/CompleteBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/平衡二叉树/AverageTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/平衡二叉树/AverageTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/平衡二叉树/ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/平衡二叉树/ReturnData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/搜索二叉树/SearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/树的判断/搜索二叉树/SearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/求树的后继节点/NextNodeTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/求树的后继节点/NextNodeTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/求树的后继节点/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/求树的后继节点/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大二叉子树/ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大二叉子树/ReturnData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大二叉子树/getMaxSBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大二叉子树/getMaxSBT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大值和最小值/MaxAndMinValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大值和最小值/MaxAndMinValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大值和最小值/ReturnType.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大值和最小值/ReturnType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大活跃度/MaxEnergy.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大活跃度/MaxEnergy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大活跃度/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大活跃度/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大活跃度/ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大活跃度/ReturnData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大距离/ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大距离/ReturnData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大距离/getMaxPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大距离/getMaxPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大路径和/getMaxSumPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/消息体处理/求二叉树的最大路径和/getMaxSumPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/镜像二叉树/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/视频/镜像二叉树/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/三个无重叠子数组的最大和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/三个无重叠子数组的最大和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/串联所有单词的子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/串联所有单词的子串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/删掉一个元素以后全为1的最长子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/删掉一个元素以后全为1的最长子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/删除子数组的最大得分/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/删除子数组的最大得分/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/大小为K且平均值大于等于阈值的子数组数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/大小为K且平均值大于等于阈值的子数组数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/子串的最大出现次数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/子串的最大出现次数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/存在重复元素III/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/存在重复元素III/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/存在重复元素三/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/存在重复元素三/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/定长子串中元音的最大数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/定长子串中元音的最大数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/找两个和为目标值且不重叠的子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/找两个和为目标值且不重叠的子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/替换后的最长重复字符/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/替换后的最长重复字符/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/替换子串得到平衡字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/替换子串得到平衡字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最大连续1的个数III/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最大连续1的个数III/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最小覆盖子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最小覆盖子串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最少交换次数来组合所有的1II/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最少交换次数来组合所有的1II/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最短超串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最短超串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最长不含重复字符的子字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最长不含重复字符的子字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最长湍流子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/最长湍流子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/水果成篮/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/水果成篮/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/爱生气的书店老板/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/爱生气的书店老板/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/第K小的子数组和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/第K小的子数组和/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/绝对差不超过限制的最长连续子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/绝对差不超过限制的最长连续子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/统计优美子数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/统计优美子数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/考试的最大困扰度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/考试的最大困扰度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/两地调度/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/两地调度/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/两地调度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/两地调度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/单调递增的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/单调递增的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/和为K的最少斐波那契数字数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/和为K的最少斐波那契数字数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/如果相邻两个颜色均相同则删除当前颜色/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/如果相邻两个颜色均相同则删除当前颜色/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/如果相邻两个颜色均相同则删除当前颜色/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/如果相邻两个颜色均相同则删除当前颜色/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/如果相邻两个颜色均相同则删除当前颜色/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/如果相邻两个颜色均相同则删除当前颜色/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/安排最多的会议/Event$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/安排最多的会议/Event$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/安排最多的会议/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/安排最多的会议/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/安排最多的会议/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/安排最多的会议/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最多可以参加的会议数目/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最多可以参加的会议数目/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最多可以参加的会议数目/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最多可以参加的会议数目/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最长快乐字符串/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最长快乐字符串/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最长快乐字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/最长快乐字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/用最少数量的箭引爆气球/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/用最少数量的箭引爆气球/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/用最少数量的箭引爆气球/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/用最少数量的箭引爆气球/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/IPO$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/IPO$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/IPO$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/IPO$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/IPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/IPO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/贪心算法/项目利润/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/LRU.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/LRU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/myCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/LRU算法/myCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/NodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/NodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/链表专题/k个一组反转单链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/链表专题/k个一组反转单链表/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/k个一组反转单链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/k个一组反转单链表/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/从链表中删去总和值为零的连续节点/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/从链表中删去总和值为零的连续节点/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/分隔链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/分隔链表/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/删除链表的倒数第N个结点/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/删除链表的倒数第N个结点/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/链表的归并排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/链表的归并排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/随想录/第一题/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/随想录/第一题/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/随想录/第一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/随想录/第一题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第三讲/求第k小的数值对/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第三讲/求第k小的数值对/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第三讲/生成一个满足等式的长度为n的数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第三讲/生成一个满足等式的长度为n的数组/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第二讲/找出数组中出现次数大于K的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第二讲/找出数组中出现次数大于K的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第二讲/找出数组中出现次数大于一半的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第二讲/找出数组中出现次数大于一半的数字/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第四讲/等概率返回随机数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神leetcode刷题班23讲/第四讲/等概率返回随机数/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/打表法/先手后手吃草/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/打表法/先手后手吃草/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/打表法/苹果袋子的最少数量/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/打表法/苹果袋子的最少数量/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/预处理技巧/正方形染色/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/预处理技巧/正方形染色/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/预处理技巧/边长全为1的正方形/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第一节/预处理技巧/边长全为1的正方形/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第三节/将栈里的数据排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第三节/将栈里的数据排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第三节/找到最长的有效括号子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第三节/找到最长的有效括号子串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第三节/括号的深度/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第三节/括号的深度/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/n个节点的二叉树有几种结构/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/n个节点的二叉树有几种结构/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/完整的括号字符串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/完整的括号字符串/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/差值为K的数字对/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/差值为K的数字对/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/集合的magic操作/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第二节/集合的magic操作/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第四节/洗衣机问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第四节/洗衣机问题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第四节/螺旋打印矩阵系列/SpiralOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神中级班/第四节/螺旋打印矩阵系列/SpiralOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/操作系统/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/操作系统/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/生成器/GenerateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/生成器/GenerateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/生成器/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/生成器/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/笔试/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/笔试/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/笔试/第三题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/笔试/第三题/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/笔试/第三题/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/笔试/第三题/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/堆排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/堆排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/堆排序/再练堆排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/堆排序/再练堆排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/归并排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/归并排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/快速排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/快速排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/每日练习/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/每日练习/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/每日练习/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/每日练习/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/荷兰国旗快速排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/自己写的排序专题/荷兰国旗快速排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/休息的最少天数/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/休息的最少天数/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/从单向链表中删除指定值的节点/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/从单向链表中删除指定值的节点/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/从单向链表中删除指定值的节点/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/从单向链表中删除指定值的节点/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/特殊的递增序列/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/特殊的递增序列/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/视野争夺/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/视野争夺/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/视野争夺/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/视野争夺/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/逛街/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/逛街/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -698,18 +66,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -739,13 +107,13 @@
       <command value="a" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.左神.位运算.翻转数位.Solution">
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛.第十六次周赛.网格中递增路径的数目.Solution" />
+  <component name="RunManager" selected="Application.左神.位运算.或运算的最小翻转次数.Solution">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.链表专题.k个一组反转单链表.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛.第十六次周赛.网格中递增路径的数目.*" />
+          <option name="PATTERN" value="左神.链表专题.k个一组反转单链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -766,12 +134,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="周赛.第八次周赛.第一题.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛.第八次周赛.第一题.Solution" />
+    <configuration name="左神.位运算.配对交换.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.位运算.配对交换.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛.第八次周赛.第一题.*" />
+          <option name="PATTERN" value="左神.位运算.配对交换.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="左神.位运算.汉明距离.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.位运算.汉明距离.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.位运算.汉明距离.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="左神.位运算.或运算的最小翻转次数.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.位运算.或运算的最小翻转次数.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.位运算.或运算的最小翻转次数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -805,6 +199,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="左神.位运算.回文排列.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.位运算.回文排列.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.位运算.回文排列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="周赛.第六次周赛.第一题.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="周赛.第六次周赛.第一题.Solution" />
       <module name="algorithm" />
@@ -820,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.左神.位运算.翻转数位.Solution" />
-        <item itemvalue="Application.左神.位运算.最长的美好子字符串.Solution" />
+        <item itemvalue="Application.左神.位运算.或运算的最小翻转次数.Solution" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.左神.位运算.汉明距离.Solution" />
+        <item itemvalue="Application.左神.位运算.配对交换.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.周赛.第八次周赛.第一题.Solution" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -1038,7 +445,8 @@
       <workItem from="1656041249531" duration="630000" />
       <workItem from="1656088713684" duration="31088000" />
       <workItem from="1656909977769" duration="1287000" />
-      <workItem from="1656924813345" duration="2906000" />
+      <workItem from="1656924813345" duration="5020000" />
+      <workItem from="1656942393913" duration="3711000" />
     </task>
     <servers />
   </component>
@@ -1345,6 +753,11 @@
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/最长的美好子字符串/Solution.java</url>
           <line>9</line>
           <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/链表专题/k个一组反转单链表/Solution.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="227" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/活字印刷/Solution.java</url>

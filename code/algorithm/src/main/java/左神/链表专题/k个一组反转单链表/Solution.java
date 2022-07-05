@@ -2,6 +2,8 @@ package 左神.链表专题.k个一组反转单链表;
 
 import 左神.树专题.公共节点.力扣.ListNode;
 
+import java.awt.List;
+
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         if(head == null || k == 1 || head.next == null)
@@ -54,6 +56,53 @@ class Solution {
         ListNode listNode = solution.reverseKGroup(node1, 2);
         ListNode temp = listNode;
         while (temp != null){
+            System.out.println(temp.val);
+            temp = temp.next;
+        }
+    }
+}
+class Main{
+    public ListNode reverseKGroup(ListNode head, int k) {
+        if(head == null || head.next == null)
+            return head;
+        ListNode newHead = new ListNode(-1);
+        newHead.next = head;
+        ListNode temp = newHead;
+        while (temp != null){
+            ListNode cur = temp;
+            for(int i = 0; i < k; i++){
+                temp = temp.next;
+                if(temp == null)
+                    return newHead.next;
+            }
+            ListNode next = temp.next;
+            temp.next = null;
+            ListNode tail = cur.next;
+            cur.next = reverseNode(cur.next);
+            tail.next = next;
+            temp = next;
+        }
+        return newHead.next;
+    }
+    public ListNode reverseNode(ListNode head){
+        ListNode newHead = new ListNode(-1);
+        ListNode temp = head;
+        while (temp != null){
+            ListNode next = temp.next;
+            temp.next = newHead.next;
+            newHead.next = temp;
+            temp = next;
+        }
+        return newHead.next;
+    }
+
+    public static void main(String[] args) {
+        ListNode head = new ListNode(1);
+
+        Main main = new Main();
+        ListNode temp = main.reverseKGroup(head,1);
+        while (temp != null)
+        {
             System.out.println(temp.val);
             temp = temp.next;
         }
