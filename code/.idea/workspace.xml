@@ -5,44 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第83场双周赛/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/多线程/交替打印字符串/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/单词频率/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/字符串解码/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/K次增加后的最大乘积/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/大餐计数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/最长的斐波那契子序列的长度/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/单调栈/元素值大于变化阈值的子数组/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/Moris遍历/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/恢复二叉搜索树/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/所有可能的真二叉树/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/查找兄弟单词/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/走方格的方案数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第83场双周赛/Solution$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第83场双周赛/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/多线程/FooBar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/多线程/H2O.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/多线程/交替打印字符串/FizzBuzz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/汉明距离总和/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/WordsFrequency.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/WordsFrequencyHash.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串解码/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/大餐计数/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长的斐波那契子序列的长度/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/元素值大于变化阈值的子数组/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/Moris遍历/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/恢复二叉搜索树/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/所有可能的真二叉树/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/查找兄弟单词/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/走方格的方案数/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/挑战困难专题/乘法表第k小的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/挑战困难专题/滑动窗口中位数/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离总和/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离总和/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/最长公共子串/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/最长公共子串/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/FooBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/多线程/FooBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/H2O.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/多线程/H2O.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../diary.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -476,7 +441,7 @@
       <workItem from="1656909977769" duration="1287000" />
       <workItem from="1656924813345" duration="5020000" />
       <workItem from="1656942393913" duration="33337000" />
-      <workItem from="1657437828939" duration="945000" />
+      <workItem from="1657437828939" duration="2370000" />
     </task>
     <servers />
   </component>
