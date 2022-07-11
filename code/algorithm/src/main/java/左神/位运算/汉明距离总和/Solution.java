@@ -1,6 +1,6 @@
 package 左神.位运算.汉明距离总和;
 
-public class Solution {
+public class Solution extends ClassLoader {
     public int totalHammingDistance(int[] nums) {
         //对于每一位 可以组成的汉明距离总和为 1的数量 乘以 0的数量
         int count = 0;
@@ -15,4 +15,9 @@ public class Solution {
         }
         return count;
     }
+
+    public static void main(String[] args) {
+        System.out.println(System.getProperty("java.class.path"));
+    }
+
 }

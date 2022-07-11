@@ -5,19 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/回文排列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/或运算的最小翻转次数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离总和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/配对交换/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/回文排列/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/或运算的最小翻转次数/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/汉明距离/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/配对交换/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/k个一组反转单链表/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第83场双周赛/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/多线程/交替打印字符串/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/单词频率/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/字符串解码/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/K次增加后的最大乘积/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/大餐计数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/最长的斐波那契子序列的长度/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/单调栈/元素值大于变化阈值的子数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/Moris遍历/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/恢复二叉搜索树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/所有可能的真二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/查找兄弟单词/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/走方格的方案数/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第83场双周赛/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第83场双周赛/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/多线程/FooBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/多线程/H2O.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/多线程/交替打印字符串/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/汉明距离总和/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/TrieNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/WordsFrequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/单词频率/WordsFrequencyHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/字符串解码/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/大餐计数/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最长的斐波那契子序列的长度/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/单调栈/元素值大于变化阈值的子数组/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/Moris遍历/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/恢复二叉搜索树/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/树专题/刷题/所有可能的真二叉树/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/查找兄弟单词/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/走方格的方案数/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/链表专题/k个一组反转单链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/链表专题/k个一组反转单链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/k个一组反转单链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/链表专题/k个一组反转单链表/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离总和/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离总和/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/最长公共子串/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/最长公共子串/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/最长公共子串/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/FooBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/多线程/FooBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/H2O.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/多线程/H2O.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../diary.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +80,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.base/java/lang/Integer.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -79,9 +108,6 @@
   }
 }</component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithm" />
       <recent name="$PROJECT_DIR$/algorithm/src/main/java/CTF" />
@@ -89,17 +115,20 @@
       <recent name="$PROJECT_DIR$/untitled/src/main/java" />
       <recent name="$PROJECT_DIR$/untitled/src/main/resources" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="周赛.第二题" />
-      <recent name="多态和接口案例" />
-      <recent name="剑指offer.合并区间" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/src/main/java" />
       <recent name="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算" />
       <recent name="$PROJECT_DIR$/algorithm/src/main/java/左神/随想录" />
       <recent name="$PROJECT_DIR$/untitled/src/main/java" />
       <recent name="$PROJECT_DIR$/untitled/src/test/java/反射" />
-      <recent name="$PROJECT_DIR$/untitled/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="周赛.第二题" />
+      <recent name="多态和接口案例" />
+      <recent name="剑指offer.合并区间" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -107,13 +136,13 @@
       <command value="a" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.左神.位运算.或运算的最小翻转次数.Solution">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.链表专题.k个一组反转单链表.Main" />
+  <component name="RunManager" selected="Application.左神.栈和队列.单调栈.元素值大于变化阈值的子数组.Solution">
+    <configuration name="WordsFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.单词频率.WordsFrequency" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.链表专题.k个一组反转单链表.*" />
+          <option name="PATTERN" value="左神.单词频率.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛.第十六次周赛.第二题.Solution" />
+    <configuration name="周赛.第83场双周赛.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛.第83场双周赛.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛.第十六次周赛.第二题.*" />
+          <option name="PATTERN" value="周赛.第83场双周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,38 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="左神.位运算.配对交换.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.位运算.配对交换.Solution" />
+    <configuration name="左神.树专题.刷题.Moris遍历.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.树专题.刷题.Moris遍历.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.位运算.配对交换.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="左神.位运算.汉明距离.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.位运算.汉明距离.Solution" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左神.位运算.汉明距离.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="左神.位运算.或运算的最小翻转次数.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.位运算.或运算的最小翻转次数.Solution" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左神.位运算.或运算的最小翻转次数.*" />
+          <option name="PATTERN" value="左神.树专题.刷题.Moris遍历.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,13 +228,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="左神.栈和队列.单调栈.元素值大于变化阈值的子数组.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.栈和队列.单调栈.元素值大于变化阈值的子数组.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.栈和队列.单调栈.元素值大于变化阈值的子数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="左神.暴力递归和动态规划.动态规划.刷题.最长的斐波那契子序列的长度.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.暴力递归和动态规划.动态规划.刷题.最长的斐波那契子序列的长度.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.暴力递归和动态规划.动态规划.刷题.最长的斐波那契子序列的长度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.左神.位运算.或运算的最小翻转次数.Solution" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.左神.位运算.汉明距离.Solution" />
-        <item itemvalue="Application.左神.位运算.配对交换.Solution" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.左神.栈和队列.单调栈.元素值大于变化阈值的子数组.Solution" />
+        <item itemvalue="Application.周赛.第83场双周赛.Solution" />
+        <item itemvalue="Application.左神.树专题.刷题.Moris遍历.Solution" />
+        <item itemvalue="Application.左神.暴力递归和动态规划.动态规划.刷题.最长的斐波那契子序列的长度.Solution" />
+        <item itemvalue="Application.WordsFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +475,8 @@
       <workItem from="1656088713684" duration="31088000" />
       <workItem from="1656909977769" duration="1287000" />
       <workItem from="1656924813345" duration="5020000" />
-      <workItem from="1656942393913" duration="3711000" />
+      <workItem from="1656942393913" duration="33337000" />
+      <workItem from="1657437828939" duration="945000" />
     </task>
     <servers />
   </component>
@@ -759,6 +789,21 @@
           <line>71</line>
           <option name="timeStamp" value="227" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/字符串解码/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/单词频率/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/周赛/第83场双周赛/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/活字印刷/Solution.java</url>
           <line>30</line>
@@ -766,6 +811,15 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/Moris遍历/Solution.java</url>
+          <line>53</line>
+          <properties class="左神.树专题.刷题.Moris遍历.Solution" method="morrisIn">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="240" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
