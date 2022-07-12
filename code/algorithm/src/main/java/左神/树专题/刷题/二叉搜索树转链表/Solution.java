@@ -104,4 +104,36 @@ class Node {
         left = _left;
         right = _right;
     }
-};
+}
+
+class Main {
+    Node pre;
+    Node head;
+    public Node treeToDoublyList(Node root) {
+        dfs(root);
+        System.out.println(head.val);
+        return head;
+    }
+    public void dfs(Node root){
+        if(root == null)
+            return;
+        dfs(root.left);
+        if(pre == null){
+            head = root;
+        }
+        else{
+            root.left = pre;
+            pre.right = root;
+        }
+        pre = root;
+        dfs(root.right);
+    }
+
+    public static void main(String[] args) {
+        Node root = new Node(4);
+        root.left = new Node(2);
+        root.left.left = new Node(1);
+        Main main = new Main();
+        main.treeToDoublyList(root);
+    }
+}
