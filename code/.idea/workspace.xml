@@ -5,41 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/前缀后缀搜索/WordFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/前缀后缀搜索/暴力破解版/WordFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/删除子文件夹/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/前缀后缀搜索/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/前缀后缀搜索/WordFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/单词搜索2/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/单词搜索2/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/单词替换/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/单词替换/Trie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/单词替换/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/字符流/StreamChecker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/字符流/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/实现一个魔法字典/MagicDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/实现一个魔法字典/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/搜索推荐系统/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/搜索推荐系统/TrieNode$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/搜索推荐系统/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/标准模版/TireNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/标准模版/TireTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/添加与搜索单词/WordDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/添加与搜索单词/WordNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/连接词/Solution$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/连接词/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/前缀树/连接词/TrieNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第302场周赛/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/先递增后递减查找最大值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/最大整除子集/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/先递增后递减查找最大值/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/最大整除子集/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/最长回文子串/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/最长回文子串/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/删除子文件夹/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/删除子文件夹/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/单词搜索2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/单词搜索2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/单词替换/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/单词替换/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/字符流/StreamChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/字符流/StreamChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/实现一个魔法字典/MagicDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/实现一个魔法字典/MagicDictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/搜索推荐系统/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/搜索推荐系统/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/标准模版/TireTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/标准模版/TireTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/添加与搜索单词/WordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/添加与搜索单词/WordDictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前缀树/连接词/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/连接词/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/汉明距离/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/k次取反/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/k次取反/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/下一个排列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/下一个排列/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/汉明距离/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/位运算/汉明距离/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文子串/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/字符串/最长回文子串/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/k次取反/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/k次取反/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/下一个排列/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/下一个排列/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../diary.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +60,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.base/java/lang/Integer.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/最长回文子串/Solution.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/先递增后递减查找最大值/Solution.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/最大整除子集/Solution.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -133,26 +117,13 @@
       <command value="a" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordFilter">
+  <component name="RunManager" selected="Application.周赛.第302场周赛.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="左神.树专题.刷题.二叉搜索树转链表.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="左神.树专题.刷题.二叉搜索树转链表.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.挑战困难专题.找出第K小的数对距离.Solution" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左神.挑战困难专题.找出第K小的数对距离.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="周赛.第83场双周赛.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛.第83场双周赛.Solution" />
+    <configuration name="周赛.第302场周赛.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛.第302场周赛.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛.第83场双周赛.*" />
+          <option name="PATTERN" value="周赛.第302场周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="周赛.第六次周赛.第一题.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛.第六次周赛.第一题.Solution" />
+    <configuration name="左神.数组和矩阵.刷题.先递增后递减查找最大值.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.数组和矩阵.刷题.先递增后递减查找最大值.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛.第六次周赛.第一题.*" />
+          <option name="PATTERN" value="左神.数组和矩阵.刷题.先递增后递减查找最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="左神.栈和队列.单调栈.元素值大于变化阈值的子数组.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.栈和队列.单调栈.元素值大于变化阈值的子数组.Solution" />
+    <configuration name="左神.暴力递归和动态规划.动态规划.刷题.最大整除子集.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.暴力递归和动态规划.动态规划.刷题.最大整除子集.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.栈和队列.单调栈.元素值大于变化阈值的子数组.*" />
+          <option name="PATTERN" value="左神.暴力递归和动态规划.动态规划.刷题.最大整除子集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.周赛.第302场周赛.Solution" />
+        <item itemvalue="Application.左神.数组和矩阵.刷题.先递增后递减查找最大值.Solution" />
+        <item itemvalue="Application.左神.暴力递归和动态规划.动态规划.刷题.最大整除子集.Solution" />
         <item itemvalue="Application.WordFilter" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.左神.栈和队列.单调栈.元素值大于变化阈值的子数组.Solution" />
-        <item itemvalue="Application.周赛.第83场双周赛.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +407,9 @@
       <workItem from="1656942393913" duration="33337000" />
       <workItem from="1657437828939" duration="7201000" />
       <workItem from="1657601252993" duration="3335000" />
-      <workItem from="1657763154803" duration="6911000" />
+      <workItem from="1657763154803" duration="9631000" />
+      <workItem from="1657963971423" duration="411000" />
+      <workItem from="1658020958021" duration="6057000" />
     </task>
     <servers />
   </component>
@@ -523,11 +496,6 @@
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神leetcode刷题班23讲/第三讲/生成一个满足等式的长度为n的数组/Solution.java</url>
           <line>14</line>
           <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/k次取反/Solution.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/把数组排成最小的数/Solution.java</url>
@@ -773,6 +741,11 @@
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/前缀树/前缀后缀搜索/WordFilter.java</url>
           <line>50</line>
           <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/周赛/第302场周赛/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="251" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/活字印刷/Solution.java</url>

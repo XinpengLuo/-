@@ -3,6 +3,9 @@ package 左神.数组和矩阵.刷题.k次取反;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+/**
+ * @author luoxinpeng
+ */
 public class Solution {
     public int largestSumAfterKNegations(int[] nums, int k) {
         Arrays.sort(nums);
@@ -15,8 +18,9 @@ public class Solution {
             k--;
             index++;
         }
-        if(k < 0 || (index < nums.length && nums[index] == 0) || k % 2 == 0)
+        if(k < 0 || (index < nums.length && nums[index] == 0) || k % 2 == 0) {
             return ans;
+        }
         return index < nums.length ? ans - 2 * Math.min(nums[index],min) : ans - 2 * min;
     }
     public int better(int[] nums, int k){
@@ -27,10 +31,12 @@ public class Solution {
         int ans = Arrays.stream(nums).sum();
         while (k > 0){
             int temp = queue.poll();
-            if(temp < 0)
+            if(temp < 0) {
                 ans += 2 * Math.abs(temp);
-            else
+            }
+            else {
                 ans -= 2 * temp;
+            }
             queue.add(-temp);
             k--;
         }
