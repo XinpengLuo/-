@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第303场周赛/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第303场周赛/优质对的数目/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/驼峰式匹配/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/挑战困难专题/回文对/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/挑战困难专题/最短回文串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/数组嵌套/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/树专题/刷题/完全二叉树插入器/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/骰子子序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第303场周赛/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/挑战困难专题/回文对/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/挑战困难专题/最短回文串/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/数组嵌套/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/NumberContainers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/骰子子序列/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/位运算/与数组中元素的最大抑或值/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第83场双周赛/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/第83场双周赛/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/挑战困难专题/乘法表第k小的数字/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/挑战困难专题/乘法表第k小的数字/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第302场周赛/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第83场双周赛/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第83场双周赛/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/挑战困难专题/乘法表第k小的数字/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/挑战困难专题/乘法表第k小的数字/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../diary.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -420,7 +398,7 @@
       <workItem from="1658020958021" duration="8434000" />
       <workItem from="1658232332525" duration="1534000" />
       <workItem from="1658475122010" duration="3534000" />
-      <workItem from="1658588123713" duration="9750000" />
+      <workItem from="1658588123713" duration="11512000" />
     </task>
     <servers />
   </component>
