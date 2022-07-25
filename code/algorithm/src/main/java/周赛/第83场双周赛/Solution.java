@@ -34,8 +34,9 @@ public class Solution {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         int k = k1 + k2;
         int[] diff = new int[nums1.length];
-        for(int i = 0; i < nums1.length; i++)
+        for(int i = 0; i < nums1.length; i++) {
             diff[i] = Math.abs(nums1[i] - nums2[i]);
+        }
         int left = 0, right = 100001;
         int target = -1;
         while (left <= right){
