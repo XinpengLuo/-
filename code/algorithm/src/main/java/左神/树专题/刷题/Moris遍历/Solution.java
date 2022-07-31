@@ -123,10 +123,8 @@ public class Solution {
         y.val = val;
     }
     public static void main(String[] args) {
-        TreeNode root = GenerateClass.generateTree("1,null,5,3,null,null,null");
+
         Solution solution = new Solution();
-        solution.morrisPre(root);
-        solution.morrisIn(root);
 
     }
 }

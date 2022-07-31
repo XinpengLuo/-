@@ -8,8 +8,9 @@ public class Solution {
     }
     public void dfs(String s, StringBuilder first, StringBuilder second, int index){
         if(index == s.length()){
-            if(check(first) && check(second))
+            if(check(first) && check(second)) {
                 ans = Math.max(ans, first.length() * second.length());
+            }
             return;
         }
         dfs(s,first,second,index + 1);
@@ -21,20 +22,61 @@ public class Solution {
     public boolean check(StringBuilder s){
         int i = 0, j = s.length() - 1;
         while (i <= j){
-            if(s.charAt(i) != s.charAt(j))
+            if(s.charAt(i) != s.charAt(j)) {
                 return false;
+            }
             i++;
             j--;
         }
         return true;
     }
 
+
+    public int maxProduct(String s, int stateA, int stateB, int index, int lenA, int lenB) {
+        if(index == s.length()){
+            return lenA * lenB;
+        }
+        int res = 0;
+        int charIndex = s.charAt(index) - 'a';
+        res = Math.max(maxProduct(s,stateA,stateB,index + 1,lenA,lenB),res);
+        //如果a添加
+        boolean flag = false;
+        if(((stateA >> charIndex) & 1) == 1) {
+            flag = true;
+        }else{
+            stateA = stateA | (1 << charIndex);
+        }
+        if(checkByBinary(stateA,stateB)){
+            res = Math.max(maxProduct(s,stateA,stateB,index + 1,lenA + 1,lenB),res);
+        }
+        if(!flag){
+            stateA = stateA ^ (1 << charIndex);
+        }
+        //如果是B添加
+        flag = false;
+        if(((stateB >> charIndex) & 1) == 1) {
+            flag = true;
+        }else{
+            stateB = stateB | (1 << charIndex);
+        }
+        if(checkByBinary(stateA,stateB)){
+            res = Math.max(maxProduct(s,stateA,stateB,index + 1,lenA,lenB + 1),res);
+        }
+        if(!flag){
+            stateB = stateB ^ (1 << charIndex);
+        }
+        return res;
+    }
+
+    public boolean checkByBinary(int stateA, int stateB){
+        for(int i = 0; i < 32; i++){
+            if((stateA >> i) == 1 && (stateB >> i) == 1) {
+                return false;
+            }
+        }
+        return true;
+    }
+
     public static void main(String[] args) {
-        Integer a = 101;
-        System.out.println(Integer.bitCount(a));
-//        Solution solution = new Solution();
-//        String s = "leetcodecom";
-//        solution.maxProduct(s);
-//        System.out.println(solution.ans);
     }
 }

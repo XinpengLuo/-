@@ -1,4 +1,4 @@
-package 左神.其他专题.快速幂.统计好数字的数目;
+package 其他专题.快速幂.统计好数字的数目;
 
 public class Solution {
     int mod = (int)Math.pow(10,9) + 7;
@@ -9,8 +9,9 @@ public class Solution {
     }
     public long myPow(int base, long n){
         long res = 1;
-        for(int i = 0; i < n; i++)
+        for(int i = 0; i < n; i++) {
             res = (res * base) % mod;
+        }
         return res;
     }
     public long fastPow(long base, long n){

@@ -1,4 +1,4 @@
-package 左神.其他专题.快速幂.pow;
+package 其他专题.快速幂.pow;
 
 public class Solution {
     public double myPow(double x, int n) {

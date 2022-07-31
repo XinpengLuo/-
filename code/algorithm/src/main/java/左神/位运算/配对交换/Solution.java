@@ -1,5 +1,9 @@
 package 左神.位运算.配对交换;
 
+import 左神.树专题.公共节点.力扣.TreeNode;
+
+import java.util.*;
+
 public class Solution {
     public int exchangeBits(int num) {
         int res = 0;
@@ -16,6 +20,26 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.exchangeBits(2));
+        List<Character> temp = new ArrayList<>();
+        System.out.println(solution.countHomogenous("abbcccaa"));
+    }
+    public int countHomogenous(String s) {
+        int count = 0;
+        int mod = 1000000007;
+        int j = 0;
+        char target = ' ';
+        for(int i = 0; i < s.length(); i++){
+            char c = s.charAt(i);
+            if(target == ' ' || c == target)
+            {
+                target = c;
+                continue;
+            }
+            target = c;
+            int len = i - j;
+            count += ((len)  * (len + 1) / 2) % mod;
+            j = i;
+        }
+        return count;
     }
 }
