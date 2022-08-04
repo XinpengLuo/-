@@ -71,4 +71,10 @@ public class Solution {
         }
         list.add(index + 1, num);
     }
+
+    public static void main(String[] args) {
+        List<Integer> res = new ArrayList<>();
+        res.add(1);
+        res.add(1,1);
+    }
 }
