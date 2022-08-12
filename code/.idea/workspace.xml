@@ -5,51 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/分割数组为连续子序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/数组的最小偏移量/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/检查数组对是否可以被k整除/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/滑动窗口/K个不同整数的子数组/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/可以是平方数的三元组/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/分割数组为连续子序列/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/数组的最小偏移量/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/检查数组对是否可以被k整除/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/滑动窗口/K个不同整数的子数组/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/可以是平方数的三元组/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/小于等于K的最长二进制子序列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/n的第k个因子/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/插入后的最大值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/最接近的三数之和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/数组和矩阵/刷题/用户分组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/递归和回溯/刷题/网格中的最短路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/栈和队列/括号的分数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/面试真题/华为机试/字符串合并处理/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/插入后的最大值/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/最接近的三数之和/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/数组和矩阵/刷题/用户分组/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/网格中的最短路径/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/栈和队列/括号的分数/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/华为机试/字符串合并处理/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/classes/周赛/第305场周赛/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/周赛/第305场周赛/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Reflect.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Reflect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Reflect/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/leetCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/leetCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/临时/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/临时/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Body$Heart.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Body$Heart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/内部类/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/内部类/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Outer$1Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Outer$1Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/内部类/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/内部类/myTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/内部类/myTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/DoMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/DoMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/KeyBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/KeyBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/USB.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/多态和接口案例/USB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/接口/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/接口/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/接口/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/接口/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/接口/MyInterfaceAbstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/接口/MyInterfaceAbstract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/接口/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/接口/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/泛型/DouDiZhu.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/泛型/DouDiZhu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/泛型/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/泛型/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/继承/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/继承/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/继承/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/继承/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/继承/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/继承/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/target/test-classes/继承/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/test-classes/继承/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/K站中转内最便宜的航班/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/动态规划/刷题/K站中转内最便宜的航班/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/K站中转内最便宜的航班/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/动态规划/刷题/K站中转内最便宜的航班/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/可以是平方数的三元组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/可以是平方数的三元组/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../diary.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,20 +120,13 @@
       <command value="a" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.面试真题.可以是平方数的三元组.Solution">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.左神.数组和矩阵.刷题.n的第k个因子.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.滑动窗口.K个不同整数的子数组.Solution" />
+      <option name="MAIN_CLASS_NAME" value="左神.数组和矩阵.刷题.用户分组.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.滑动窗口.K个不同整数的子数组.*" />
+          <option name="PATTERN" value="左神.数组和矩阵.刷题.用户分组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="周赛.第305场周赛.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛.第305场周赛.Solution" />
+    <configuration name="面试真题.华为机试.字符串合并处理.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试真题.华为机试.字符串合并处理.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛.第305场周赛.*" />
+          <option name="PATTERN" value="面试真题.华为机试.字符串合并处理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="面试真题.可以是平方数的三元组.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试真题.可以是平方数的三元组.Solution" />
+    <configuration name="左神.栈和队列.括号的分数.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.栈和队列.括号的分数.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试真题.可以是平方数的三元组.*" />
+          <option name="PATTERN" value="左神.栈和队列.括号的分数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,25 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="左神.位运算.下一个数.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.位运算.下一个数.Solution" />
+    <configuration name="左神.数组和矩阵.刷题.插入后的最大值.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.数组和矩阵.刷题.插入后的最大值.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.位运算.下一个数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="左神.数组和矩阵.刷题.数组的最小偏移量.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.数组和矩阵.刷题.数组的最小偏移量.Solution" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左神.数组和矩阵.刷题.数组的最小偏移量.*" />
+          <option name="PATTERN" value="左神.数组和矩阵.刷题.插入后的最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="左神.数组和矩阵.刷题.检查数组对是否可以被k整除.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神.数组和矩阵.刷题.检查数组对是否可以被k整除.Solution" />
+    <configuration name="左神.数组和矩阵.刷题.n的第k个因子.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.数组和矩阵.刷题.n的第k个因子.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神.数组和矩阵.刷题.检查数组对是否可以被k整除.*" />
+          <option name="PATTERN" value="左神.数组和矩阵.刷题.n的第k个因子.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.面试真题.可以是平方数的三元组.Solution" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.左神.数组和矩阵.刷题.检查数组对是否可以被k整除.Solution" />
+        <item itemvalue="Application.左神.数组和矩阵.刷题.n的第k个因子.Solution" />
+        <item itemvalue="Application.左神.数组和矩阵.刷题.插入后的最大值.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.周赛.第305场周赛.Solution" />
+        <item itemvalue="Application.面试真题.华为机试.字符串合并处理.Main" />
+        <item itemvalue="Application.左神.栈和队列.括号的分数.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -482,7 +435,8 @@
       <workItem from="1659146078216" duration="7000" />
       <workItem from="1659147029668" duration="9445000" />
       <workItem from="1659320691229" duration="54052000" />
-      <workItem from="1659962936052" duration="7967000" />
+      <workItem from="1659962936052" duration="10569000" />
+      <workItem from="1660132317188" duration="11274000" />
     </task>
     <servers />
   </component>
@@ -892,8 +846,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/面试真题/可以是平方数的三元组/Solution.java</url>
-          <line>60</line>
+          <line>59</line>
           <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/递归和回溯/刷题/网格中的最短路径/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/递归和回溯/刷题/网格中的最短路径/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="303" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/字符串/活字印刷/Solution.java</url>
@@ -911,6 +875,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/递归和回溯/刷题/网格中的最短路径/Solution.java</url>
+          <line>6</line>
+          <properties class="左神.暴力递归和动态规划.递归和回溯.刷题.网格中的最短路径.Solution" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="302" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
