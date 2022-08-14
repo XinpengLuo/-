@@ -14,6 +14,7 @@ public class Solution {
                     temp.add(i);
             }
         }
+
         return temp.size() >= k ? n / temp.get(temp.size() - k) : -1;
     }
 

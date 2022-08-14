@@ -37,9 +37,49 @@ public class Solution {
             return searchIndex(nums,left,middleIndex - 1,target);
     }
 
+
+    public int better(int[] nums, int target){
+        if(nums.length == 0)
+            return -1;
+        if(nums.length == 1)
+            return nums[0] == target ? 0 : -1;
+        int left = 0, right = nums.length - 1;
+        int index = nums.length;
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            if(nums[mid] >= nums[0])
+                left = mid + 1;
+            else{
+                index = mid;
+                right = mid -1;
+            }
+        }
+        if(target >= nums[0])
+        {
+            left = 0;
+            right = index - 1;
+        }else {
+            left = index;
+            right = nums.length - 1;
+        }
+        while (left <= right){
+            int mid = left + (right - left) / 2;
+            if(nums[mid] == target)
+                return mid;
+            else if(nums[mid] > target)
+                right = mid - 1;
+            else
+                left = mid + 1;
+        }
+        return -1;
+    }
+
+
+
+    //[4,5,6,7,0,1,2]
     public static void main(String[] args) {
-        int[] nums = {3,1};
+        int[] nums = {1};
         Solution solution = new Solution();
-        System.out.println(solution.search(nums, 3));
+        System.out.println(solution.better(nums, 0));
     }
 }
