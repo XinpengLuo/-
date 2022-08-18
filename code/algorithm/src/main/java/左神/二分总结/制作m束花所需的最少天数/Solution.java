@@ -3,7 +3,11 @@ package 左神.二分总结.制作m束花所需的最少天数;
 import java.util.concurrent.locks.*;
 
 class Solution {
+    public static void test(){
+
+    }
     public int minDays(int[] bloomDay, int m, int k) {
+
         int res = -1;
         int left = 1, right = (int) Math.pow(10,9);
         while(left <= right){
@@ -36,5 +40,7 @@ class Solution {
         ReentrantLock lock = new ReentrantLock();
         Solution solution = new Solution();
         System.out.println(solution.minDays(arr, 3, 2));
+        StringBuffer sb = new StringBuffer();
+
     }
 }
