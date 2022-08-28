@@ -2,6 +2,8 @@ package 左神.链表专题.链表的孪生结点;
 
 import 左神.树专题.公共节点.力扣.ListNode;
 
+import java.util.*;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -55,14 +57,11 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        ListNode head = new ListNode(1);
-        head.next = new ListNode(3);
-        head.next.next = new ListNode(4);
-        head.next.next.next = new ListNode(51);
-        head.next.next.next.next = new ListNode(6);
-        head.next.next.next.next.next = new ListNode(7);
-        Solution solution = new Solution();
-        System.out.println(solution.pairSum(head));
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.put(1,1);
+        int index = 3;
+
+
 
     }
 }
