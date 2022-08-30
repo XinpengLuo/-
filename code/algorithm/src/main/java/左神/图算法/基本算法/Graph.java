@@ -51,9 +51,68 @@ public class Graph {
     }
 
 
-    public void dfs(){
-
+    //得到第一个邻接点的下标
+    public int getFirstNeighbor(int index){
+        for(int j = 0; j < vertexList.size(); j++)
+            if(edges[index][j] > 0)
+                return j;
+        return -1;
     }
+
+
+    //根据前一个邻接节点的下标来获取下一个邻接节点
+    public int getNextNeighbor(int index, int j){
+        for(int i = j + 1; i < vertexList.size(); i++)
+            if(edges[index][i] > 0)
+                return i;
+        return -1;
+    }
+    public void dfs(int i){
+        System.out.print(getValueByIndex(i) + "->");
+        isVisited[i] = true;
+        int firstNeighbor = getFirstNeighbor(i);
+        while (firstNeighbor != -1){
+            if(!isVisited[firstNeighbor])
+                dfs(firstNeighbor);
+            firstNeighbor = getNextNeighbor(i,firstNeighbor);
+        }
+    }
+
+    //对dfs进行一个重载 遍历所有节点进行dfs
+    public void dfs(){
+        for (int i = 0; i < vertexList.size(); i++) {
+            if(!isVisited[i])
+                dfs(i);
+        }
+    }
+
+
+    //对一个结点进行广度优先遍历的方法
+    public void bfs(int i){
+        int u; //队列的头节点下标
+        int w; //邻接结点的下标
+        LinkedList<Integer> queue = new LinkedList<>();
+        System.out.print(getValueByIndex(i) + "->");
+        isVisited[i] = true;
+        queue.add(i);
+        while (!queue.isEmpty()){
+            //取出队列的头节点下标
+            u = queue.removeFirst();
+            //得到第一个邻接点的下标
+            w = getFirstNeighbor(u);
+            while (w != -1){
+                if(!isVisited[w])
+                {
+                    System.out.print(getValueByIndex(w) + "->");
+                    isVisited[w] = true;
+                    queue.add(w);
+                }
+                w = getNextNeighbor(u,w);
+            }
+        }
+    }
+
+
 
     public static void main(String[] args) {
         int n = 5;
@@ -72,6 +131,7 @@ public class Graph {
         graph.insertEdges(1,2,1);
         graph.insertEdges(1,3,1);
         graph.insertEdges(1,4,1);
-        graph.showGraph();
+        //graph.showGraph();
+        graph.dfs();
     }
 }
