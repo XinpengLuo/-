@@ -57,6 +57,7 @@ public class Solution {
     }
     public static void main(String[] args) {
         Solution solution = new Solution();
+
         int[] arr = {1,-1};
         System.out.println(Arrays.toString(solution.maxSlidingWindow(arr, 1)));
         System.out.println(Arrays.toString(solution.better(arr, 1)));
