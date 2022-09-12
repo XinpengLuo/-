@@ -10,26 +10,31 @@ public class Solution {
         Arrays.sort(events, new Comparator<int[]>() {
             @Override
             public int compare(int[] t1, int[] t2) {
-                return t1[1] - t2[1];
+                return t1[0] - t2[0];
             }
         });
+        int index = 0, day = 0;
         int count = 0;
-        
-        HashSet<Integer> set = new HashSet<>();
-        for(int i = 0; i < events.length; i++){
-            int s = events[i][0];
-            int e = events[i][1];
-            for(int j = s; j <= e; j++){
-                if(!set.contains(j)){
-                    set.add(j);
-                    count++;
-                }
+        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        while(index < events.length || !queue.isEmpty()){
+            while (index < events.length && events[index][0] == day){
+                queue.add(events[index][1]);
+                index++;
             }
+            while (!queue.isEmpty() && queue.peek() < day)
+                queue.poll();
+            if(!queue.isEmpty()){
+                count++;
+                queue.poll();
+            }
+            day++;
         }
         return count;
     }
 
     public static void main(String[] args) {
         Solution solution = new Solution();
+        int[][] arr = {{1,1},{1,2},{2,2}};
+        System.out.println(solution.maxEvents(arr));
     }
 }
