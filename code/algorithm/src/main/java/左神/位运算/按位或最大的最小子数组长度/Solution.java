@@ -21,9 +21,34 @@ public class Solution {
         return res;
     }
 
+    public int closestToTarget(int[] arr, int target) {
+        int ans = Integer.MAX_VALUE;
+        HashSet<Integer> set = new HashSet<>();
+        List<Integer> list = new ArrayList<>(set);
+        for(int i = 0; i < arr.length; i++){
+            if(!set.contains(arr[i])){
+                set.add(arr[i]);
+                list.add(arr[i]);
+            }
+        }
+        for(int i = 0; i < list.size(); i++)
+        {
+            int temp = list.get(i);
+            for(int j = i; j < list.size(); j++){
+                temp &= list.get(j);
+                ans = Math.min(Math.abs(temp - target), ans);
+                if(temp <= target)
+                {
+                    System.out.println(1);
+                    break;
+                }
+            }
+        }
+        return ans;
+    }
     public static void main(String[] args) {
-        int[] arr = {1,0,2,1,3};
+        int[] arr = {59,63,31,53};
         Solution solution = new Solution();
-        System.out.println(Arrays.toString(solution.smallestSubarrays(arr)));
+        System.out.println(solution.closestToTarget(arr,21));
     }
 }
