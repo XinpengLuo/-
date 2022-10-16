@@ -1,5 +1,7 @@
 package 左神.数组和矩阵.刷题.区间和的个数;
 
+import 左神.树专题.公共节点.力扣.ListNode;
+
 import java.util.*;
 
 public class Solution {
@@ -72,9 +74,63 @@ public class Solution {
         list.add(index + 1, num);
     }
 
+
+
+
+
+    public ListNode reverseKGroup(ListNode head, int k) {
+        if(k == 1)
+            return head;
+        ListNode newHead = new ListNode(-1);
+        ListNode pre = newHead, temp = head;
+        while(temp != null){
+            ListNode tail = null;
+            ListNode tempHead = temp;
+            for(int i = 1; i < k; i++){
+                if(temp.next == null)
+                    return newHead.next;
+                temp = temp.next;
+            }
+            tail = temp.next;
+            reverse(tempHead,tail);
+            pre.next = temp;
+            tempHead.next = tail;
+            pre = tempHead;
+            temp = tail;
+        }
+        return newHead.next;
+    }
+    public ListNode reverse(ListNode head,  ListNode tail){
+        ListNode newHead = new ListNode(-1);
+        while(head != tail){
+            ListNode next = head.next;
+            head.next = newHead.next;
+            newHead.next = head;
+            head = next;
+        }
+        return newHead.next;
+    }
+
+
+
+
+
+
     public static void main(String[] args) {
-        List<Integer> res = new ArrayList<>();
-        res.add(1);
-        res.add(1,1);
+        String s = "aaaabbbbbccccddaa";
+        int index = 0;
+        StringBuilder sb = new StringBuilder();
+        while(index < s.length()){
+            int count = 0;
+            char c = s.charAt(index);
+            while(index < s.length() && s.charAt(index) == c)
+            {
+                index++;
+                count++;
+            }
+            sb.append(c);
+            sb.append(count);
+        }
+        System.out.println(sb.toString());
     }
 }
