@@ -1,5 +1,9 @@
 package 左神.字符串.字符串转化后的各位数字之和;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class Solution {
     public int getLucky(String s, int k) {
         StringBuilder sb = new StringBuilder();
@@ -15,4 +19,6 @@ public class Solution {
         }
         return Integer.parseInt(sb.toString());
     }
+
+ 
 }
