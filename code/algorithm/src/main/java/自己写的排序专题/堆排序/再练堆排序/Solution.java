@@ -37,7 +37,6 @@ public class Solution {
         }
     }
     public void swap(int[] arr, int i, int j){
-        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;

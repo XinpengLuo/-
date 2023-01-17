@@ -8,41 +8,64 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 class Solution {
-    HashMap<Integer, Integer> map = new HashMap<>();
-    int time = 0;
-    List<Integer> res = new ArrayList<>();
-    public int[] findFrequentTreeSum(TreeNode root) {
-        help(root);
-        int[] arr = new int[res.size()];
-        for(int i = 0; i < arr.length; i++)
-            arr[i] = res.get(i);
-        return arr;
-    }
-    public int help(TreeNode root){
-        if(root == null)
-            return 0;
-        int left = help(root.left);
-        int right = help(root.right);
-        int sum = left + right + root.val;
-        map.put(sum,map.getOrDefault(sum, 0) + 1);
-        int size = map.get(sum);
-        if(size == time)
-            res.add(sum);
-        if(size > time){
-            time = size;
-            res.clear();
-            res.add(sum);
+    public void quickSort(int[] arr, int i, int j){
+        if(i >= j)
+            return;
+        int left = i;
+        int right = j;
+        int target = arr[i];
+        while (i < j){
+            while (i < j && arr[j] >= target)
+                j--;
+            while (i < j && arr[i] <= target)
+                i++;
+            swap(arr,i,j);
         }
-
-        return sum;
+        swap(arr,left,i);
+        quickSort(arr,left,i - 1);
+        quickSort(arr,i + 1,right);
     }
+    public void swap(int[] arr, int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
+
+    public void mergeSort(int[] arr, int i, int j){
+        if(i >= j)
+            return;
+
+        int mid = i + (j - i) / 2;
+        mergeSort(arr,i,mid);
+        mergeSort(arr,mid + 1, j);
+        int[] temp = new int[j - i + 1];
+        int left = i, right = mid + 1, index = 0;
+        while(left <= mid || right <= j){
+            int x = left > mid ? Integer.MAX_VALUE : arr[left];
+            int y = right > j ? Integer.MAX_VALUE : arr[right];
+            if(x < y)
+            {
+                temp[index] = x;
+                left++;
+            }
+            else
+            {
+                temp[index] = y;
+                right++;
+            }
+            index++;
+        }
+        for(int k = i; k <= j; k++)
+            arr[k] = temp[k - i];
+    }
+
+
 
     public static void main(String[] args) {
-        TreeNode root = new TreeNode(5);
-        root.left = new TreeNode(2);
-        root.right = new TreeNode(-3);
+        int[] arr = {3,1,5,7,1,3,5,2};
         Solution solution = new Solution();
-        int[] arr = solution.findFrequentTreeSum(root);
+        solution.mergeSort(arr,0,arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
 }

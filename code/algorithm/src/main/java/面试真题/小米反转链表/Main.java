@@ -21,6 +21,7 @@ class Solution {
         ListNode<Integer> end = null;
         ListNode<Integer> temp = newHead;
         ListNode<Integer> pre = null;
+        newHead.next = head;
         while(temp != null && temp.data != left)
         {
             pre = temp;

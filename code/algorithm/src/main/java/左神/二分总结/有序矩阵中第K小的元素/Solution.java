@@ -5,12 +5,7 @@ import java.util.PriorityQueue;
 
 public class Solution {
     public int kthSmallest(int[][] matrix, int k) {
-        PriorityQueue<int[]> priorityQueue = new PriorityQueue<>(new Comparator<int[]>() {
-            @Override
-            public int compare(int[] t1, int[] t2) {
-                return matrix[t1[0]][t1[1]] - matrix[t2[0]][t2[1]];
-            }
-        });
+        PriorityQueue<int[]> priorityQueue = new PriorityQueue<>(Comparator.comparingInt(t -> matrix[t[0]][t[1]]));
         for(int i = 0; i < matrix.length; i++)
             priorityQueue.add(new int[]{i,0});
         int ans = 0;

@@ -35,6 +35,11 @@ class Solution {
         return res;
     }
 
+
+
+
+
+
     public static void main(String[] args) {
         int[] arr = {1,10,3,10,2};
         ReentrantLock lock = new ReentrantLock();

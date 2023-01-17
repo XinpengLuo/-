@@ -15,6 +15,8 @@ public class Solution {
         res[0] = diff[0];
         for(int i = 1; i < res.length; i++)
             res[i] = res[i - 1] + diff[i];
+        // 1 0 0 -1
+        //1 1 1 0
         return res;
     }
 }

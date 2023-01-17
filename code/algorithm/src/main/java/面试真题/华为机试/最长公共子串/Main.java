@@ -29,8 +29,28 @@ public class Main {
         return ans;
     }
 
+    public String maximumNumber(String num, int[] change) {
+        char[] arr = num.toCharArray();
+        for(int i = 0; i < num.length(); i++){
+            char c = num.charAt(i);
+            System.out.println(c - '0' + " " + change[c - '0']);
+            if(change[c - '0'] > c - '0'){
+                while(change[c - '0'] >= c - '0'){
+                    arr[i] = (char) ('0' + change[c - '0']);
+                    i++;
+                    if(i >= num.length())
+                        break;
+                    c = num.charAt(i);
+                }
+                break;
+            }
+        }
+        return new String(arr);
+    }
     public static void main(String[] args) {
-
+        Main main = new Main();
+        int[] arr = {9,8,5,0,3,6,4,2,6,8};
+        System.out.println(main.maximumNumber("132", arr));
 //        Main main = new Main();
 //        Scanner scanner = new Scanner(System.in);
 //        String s1 = scanner.nextLine();

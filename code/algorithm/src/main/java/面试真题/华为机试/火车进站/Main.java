@@ -10,6 +10,7 @@ public class Main {
             for(int i = stack.size() - 1; i >= 0; i--)
                 temp.add(stack.get(i));
             res.add(new ArrayList<>(temp));
+
             return;
         }
         //当一辆火车来的的时候可以 选择直接入尾部 或者弹出
