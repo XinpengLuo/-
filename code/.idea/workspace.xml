@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafc43f2-697a-4e2e-a1ce-e672ebbfb1c7" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/周赛/力扣杯/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/周赛/力扣杯/Solution.java" afterDir="false" />
@@ -189,6 +190,12 @@
       <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/迅雷行动次数/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/迅雷行动次数/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/target/classes/面试真题/酷反转矩阵/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/面试真题/酷反转矩阵/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../diary.md" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/左神/暴力递归和动态规划/递归和回溯/刷题/通知所有员工所需的时间/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/通知所有员工所需的时间/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/通过连接另一个数组的子数组得到一个数组/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/target/classes/左神/暴力递归和动态规划/递归和回溯/刷题/通过连接另一个数组的子数组得到一个数组/Solution.class" afterDir="false" />
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,10 +248,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -260,8 +267,28 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xinpengluo/Downloads/self-study/algorithms/Algorithm-Diary/code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithm" />
@@ -291,6 +318,7 @@
       <command value="a" />
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.左神.字符串.统计追加字母可以获得的单词数.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="面试真题.腾讯.二进制1的转换.Main" />
@@ -298,6 +326,14 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="面试真题.腾讯.二进制1的转换.*" />
+=======
+  <component name="RunManager" selected="Application.左神.暴力递归和动态规划.递归和回溯.刷题.通知所有员工所需的时间.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛.第306场周赛.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="周赛.第306场周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,12 +341,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="面试真题.员工疲劳天数.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试真题.员工疲劳天数.Main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试真题.员工疲劳天数.*" />
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="左神.差分.所有排列中的最大和.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="左神.差分.所有排列中的最大和.*" />
+=======
+    <configuration name="左神.链表专题.链表的孪生结点.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.链表专题.链表的孪生结点.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.链表专题.链表的孪生结点.*" />
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,12 +377,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="面试真题.腾讯.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="面试真题.腾讯.Solution" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="面试真题.腾讯.*" />
+=======
+    <configuration name="左神.字符串.字符串转化后的各位数字之和.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.字符串.字符串转化后的各位数字之和.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.字符串.字符串转化后的各位数字之和.*" />
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,12 +399,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="面试真题.腾讯.字符串翻转.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="面试真题.腾讯.字符串翻转.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="面试真题.腾讯.字符串翻转.*" />
+=======
+    <configuration name="左神.位运算.下一个数.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.位运算.下一个数.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.位运算.下一个数.*" />
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,13 +434,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="左神.暴力递归和动态规划.递归和回溯.刷题.通过连接另一个数组的子数组得到一个数组.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.暴力递归和动态规划.递归和回溯.刷题.通过连接另一个数组的子数组得到一个数组.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.暴力递归和动态规划.递归和回溯.刷题.通过连接另一个数组的子数组得到一个数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="左神.暴力递归和动态规划.递归和回溯.刷题.通知所有员工所需的时间.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神.暴力递归和动态规划.递归和回溯.刷题.通知所有员工所需的时间.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神.暴力递归和动态规划.递归和回溯.刷题.通知所有员工所需的时间.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.左神.字符串.统计追加字母可以获得的单词数.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.面试真题.腾讯.字符串翻转.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.面试真题.腾讯.Solution" />
+=======
+        <item itemvalue="Application.左神.暴力递归和动态规划.递归和回溯.刷题.通知所有员工所需的时间.Solution" />
+        <item itemvalue="Application.左神.暴力递归和动态规划.递归和回溯.刷题.通过连接另一个数组的子数组得到一个数组.Solution" />
+        <item itemvalue="Application.左神.链表专题.链表的孪生结点.Solution" />
+        <item itemvalue="Application.左神.暴力递归和动态规划.动态规划.刷题.视频拼接.Solution" />
+        <item itemvalue="Application.Solution" />
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
       </list>
     </recent_temporary>
   </component>
@@ -595,6 +706,7 @@
       <workItem from="1659320691229" duration="54052000" />
       <workItem from="1659962936052" duration="10569000" />
       <workItem from="1660132317188" duration="20887000" />
+<<<<<<< HEAD
       <workItem from="1660352706896" duration="34827000" />
       <workItem from="1660788243424" duration="31805000" />
       <workItem from="1661341258637" duration="82671000" />
@@ -621,11 +733,32 @@
       <workItem from="1667063786779" duration="1017000" />
       <workItem from="1668612959905" duration="919000" />
       <workItem from="1671108252805" duration="2046000" />
+=======
+      <workItem from="1660352706896" duration="27735000" />
+      <workItem from="1671108619944" duration="719000" />
+      <workItem from="1671182649422" duration="996000" />
+      <workItem from="1671183761479" duration="201000" />
+      <workItem from="1671183977486" duration="126000" />
+      <workItem from="1671184112145" duration="596000" />
+      <workItem from="1671254385243" duration="42000" />
+      <workItem from="1671263290098" duration="3894000" />
+>>>>>>> cbc590b84068eeff50b0374baf242a420ef09dc8
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -1385,17 +1518,17 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/code$LRUCache.ic" NAME="LRUCache Coverage Results" MODIFIED="1656037054095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>左神.其他专题.LRU.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/$Test.ic" NAME="Test Coverage Results" MODIFIED="1612102285328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>临时.*</FILTER>
+    <SUITE FILE_PATH="coverage/$Solution__4_.ic" NAME="Solution (4) Coverage Results" MODIFIED="1638984101558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>左神.数组和矩阵.刷题.有效的井字游戏.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1641811961257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>左神.字符串.累加数.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/$Solution__4_.ic" NAME="Solution (4) Coverage Results" MODIFIED="1638984101558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>左神.数组和矩阵.刷题.有效的井字游戏.*</FILTER>
+    <SUITE FILE_PATH="coverage/$Test.ic" NAME="Test Coverage Results" MODIFIED="1612102285328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>临时.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/code$LRUCache.ic" NAME="LRUCache Coverage Results" MODIFIED="1656037054095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>左神.其他专题.LRU.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/code$__LR_Solution.ic" NAME="左神.双指针.在LR字符串中交换相邻字符.Solution Coverage Results" MODIFIED="1664725930072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>左神.双指针.在LR字符串中交换相邻字符.*</FILTER>
