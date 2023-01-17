@@ -1,13 +1,10 @@
 package 周赛.第七次周赛.第三题;
 
-import 左神.树专题.公共节点.力扣.TreeNode;
-import 生成器.GenerateClass;
+import 主要练习.树专题.公共节点.力扣.TreeNode;
 
-import java.awt.*;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
+
 public class Solution {
     HashMap<TreeNode,TreeNode> map = new HashMap<>(); //key --> son value --> father
     HashSet<Integer> visited = new HashSet<>();

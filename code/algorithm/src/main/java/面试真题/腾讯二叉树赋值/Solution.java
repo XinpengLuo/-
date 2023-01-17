@@ -1,8 +1,6 @@
 package 面试真题.腾讯二叉树赋值;
 
-import 左神.树专题.公共节点.力扣.TreeNode;
-
-import java.util.*;
+import 主要练习.树专题.公共节点.力扣.TreeNode;
 
 /*
  * public class TreeNode {

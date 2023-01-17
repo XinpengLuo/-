@@ -1,5 +1,5 @@
 import 剑指offer.数组中重复的数字.FindRepeatNumber;
-import 左神.暴力递归和动态规划.动态规划.刷题.和为奇数的子数组数目.Solution;
+import 主要练习.暴力递归和动态规划.动态规划.刷题.和为奇数的子数组数目.Solution;
 
 import java.util.*;
 

@@ -1,7 +1,5 @@
 package 周赛.第303场周赛.优质对的数目;
 
-import 左神.树专题.视频.前缀树.Trie;
-
 import java.util.*;
 
 public class Solution {

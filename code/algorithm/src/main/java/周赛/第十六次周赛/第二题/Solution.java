@@ -1,6 +1,6 @@
 package 周赛.第十六次周赛.第二题;
 
-import 左神.树专题.公共节点.力扣.ListNode;
+import 主要练习.树专题.公共节点.力扣.ListNode;
 
 import java.util.Arrays;
 

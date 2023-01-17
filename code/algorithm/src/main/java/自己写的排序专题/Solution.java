@@ -1,12 +1,7 @@
 package 自己写的排序专题;
 
-import 左神.树专题.公共节点.力扣.TreeNode;
-
-import java.net.Socket;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
+
 class Solution {
     public void quickSort(int[] arr, int i, int j){
         if(i >= j)

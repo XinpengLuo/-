@@ -1,6 +1,6 @@
 package 面试真题.构建所有的二叉树;
 
-import 左神.树专题.公共节点.力扣.TreeNode;
+import 主要练习.树专题.公共节点.力扣.TreeNode;
 
 import java.util.*;
 

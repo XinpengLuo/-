@@ -1,6 +1,6 @@
 package 面试真题;
 
-import 左神.挑战困难专题.乘法表第k小的数字.Solution;
+import 主要练习.挑战困难专题.乘法表第k小的数字.Solution;
 
 import java.util.*;
 

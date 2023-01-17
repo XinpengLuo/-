@@ -1,8 +1,6 @@
 package 面试真题.腾讯;
 
-import 左神.树专题.公共节点.力扣.ListNode;
-
-import java.util.*;
+import 主要练习.树专题.公共节点.力扣.ListNode;
 
 /*
  * public class ListNode {

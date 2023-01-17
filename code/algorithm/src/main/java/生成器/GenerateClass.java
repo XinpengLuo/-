@@ -1,10 +1,9 @@
 package 生成器;
 
-import 左神.树专题.公共节点.力扣.ListNode;
-import 左神.树专题.公共节点.力扣.TreeNode;
+import 主要练习.树专题.公共节点.力扣.ListNode;
+import 主要练习.树专题.公共节点.力扣.TreeNode;
 
 
-import java.awt.*;
 import java.util.LinkedList;
 import java.util.Queue;
 

@@ -1,7 +1,5 @@
 package 笔试;
 
-import 左神.树专题.刷题.反转二叉树的奇数层.Solution;
-
 import java.util.*;
 
 public class Main {
