@@ -1,5 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
+metadata:
+  name: artist-api
+  description: Retrieve artist details
 openapi: 3.0.0
 servers:
   # Added by API Auto Mocking Plugin
