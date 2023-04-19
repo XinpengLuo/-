@@ -20,4 +20,31 @@ spec:
     paths:
       /artists:
         get:
-          summary: List all artists
+          tags:
+            - Device
+          description: returns all registered devices
+          operationId: getDevices
+          parameters:
+            - in: query
+              name: skip
+              description: number of records to skip
+              schema:
+                type: integer
+                format: int32
+            - in: query
+              name: limit
+              description: max number of records to return
+              schema:
+                type: integer
+                format: int32
+          responses:
+            '200':
+              description: All the devices
+              content:
+                application/json:
+                  schema:
+                    type: array
+                    items:
+                      type: string
+                      format: uri
+                      example: 'http://10.0.0.225:8080'
